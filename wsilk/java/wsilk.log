@@ -1,0 +1,2469 @@
+start
+Using build context: org.sonatype.plexus.build.incremental.DefaultBuildContext@78e16155
+getSourceDirectory: /Users/mindashuang/git/wsilk-sample/src/main/java
+incremental is true
+incremental is false
+hasDelta is true
+compiler source
+generatate over
+start
+Using build context: org.sonatype.plexus.build.incremental.DefaultBuildContext@70f822e
+getSourceDirectory: /Users/mindashuang/git/wsilk-sample/src/main/java
+incremental is true
+incremental is false
+hasDelta is true
+compiler source
+start
+Using build context: org.sonatype.plexus.build.incremental.DefaultBuildContext@45bf6f39
+getSourceDirectory: /Users/mindashuang/git/wsilk-sample/src/main/java
+incremental is true
+incremental is false
+hasDelta is true
+compiler source
+generatate over
+start
+Using build context: org.eclipse.m2e.core.internal.embedder.EclipseBuildContext@221d4a2d
+getSourceDirectory: /Users/mindashuang/git/wsilk-sample/src/main/java
+incremental is true
+incremental is false
+hasDelta is true
+compiler source
+generatate over
+start
+Using build context: org.sonatype.plexus.build.incremental.DefaultBuildContext@10567255
+getSourceDirectory: /Users/mindashuang/git/wsilk-sample/src/main/java
+incremental is true
+incremental is false
+hasDelta is true
+compiler source
+generatate over
+start
+Using build context: org.eclipse.m2e.core.internal.embedder.EclipseBuildContext@1612f8b5
+getSourceDirectory: /Users/mindashuang/git/wsilk-sample/src/main/java
+incremental is true
+incremental is true
+hasDelta is false
+Code generation is skipped in build because code was not modified.
+start
+Using build context: org.sonatype.plexus.build.incremental.DefaultBuildContext@5aa360ea
+getSourceDirectory: /Users/mindashuang/git/wsilk-sample/src/main/java
+incremental is true
+incremental is false
+hasDelta is true
+compiler source
+generatate over
+start
+Using build context: org.eclipse.m2e.core.internal.embedder.EclipseBuildContext@499d6c1c
+getSourceDirectory: /Users/mindashuang/git/wsilk-sample/src/main/java
+incremental is true
+incremental is true
+hasDelta is false
+Code generation is skipped in build because code was not modified.
+start
+Using build context: org.eclipse.m2e.core.internal.embedder.EclipseBuildContext@5715d8f8
+getSourceDirectory: /Users/mindashuang/git/wsilk-sample/src/main/java
+incremental is true
+incremental is false
+hasDelta is true
+compiler source
+generatate over
+start
+Using build context: org.eclipse.m2e.core.internal.embedder.EclipseBuildContext@f6d4229
+getSourceDirectory: /Users/mindashuang/git/wsilk-sample/src/main/java
+incremental is true
+incremental is true
+hasDelta is false
+Code generation is skipped in build because code was not modified.
+start
+Using build context: org.sonatype.plexus.build.incremental.DefaultBuildContext@5aa360ea
+getSourceDirectory: /Users/mindashuang/git/wsilk-sample/src/main/java
+incremental is true
+incremental is false
+hasDelta is true
+compiler source
+generatate over
+start
+Using build context: org.eclipse.m2e.core.internal.embedder.EclipseBuildContext@7b8b6891
+getSourceDirectory: /Users/mindashuang/git/wsilk-sample/src/main/java
+incremental is true
+incremental is true
+hasDelta is true
+compiler source
+generatate over
+start
+Using build context: org.sonatype.plexus.build.incremental.DefaultBuildContext@7fcf294e
+getSourceDirectory: /Users/mindashuang/git/wsilk-sample/src/main/java
+incremental is true
+incremental is false
+hasDelta is true
+compiler source
+generatate over
+start
+Using build context: org.eclipse.m2e.core.internal.embedder.EclipseBuildContext@40e56533
+getSourceDirectory: /Users/mindashuang/git/wsilk-sample/src/main/java
+incremental is true
+incremental is true
+hasDelta is false
+Code generation is skipped in build because code was not modified.
+start
+Using build context: org.eclipse.m2e.core.internal.embedder.EclipseBuildContext@489246b
+getSourceDirectory: /Users/mindashuang/git/wsilk-sample/src/main/java
+incremental is true
+incremental is false
+hasDelta is true
+compiler source
+generatate over
+start
+Using build context: org.sonatype.plexus.build.incremental.DefaultBuildContext@65f2f9b0
+getSourceDirectory: /Users/mindashuang/git/wsilk-sample/src/main/java
+incremental is true
+incremental is false
+hasDelta is true
+compiler source
+generatate over
+start
+Using build context: org.sonatype.plexus.build.incremental.DefaultBuildContext@7fcf294e
+getSourceDirectory: /Users/mindashuang/git/wsilk-sample/src/main/java
+incremental is true
+incremental is false
+hasDelta is true
+compiler source
+generatate over
+start
+Using build context: org.sonatype.plexus.build.incremental.DefaultBuildContext@7fcf294e
+getSourceDirectory: /Users/mindashuang/git/wsilk-sample/src/main/java
+incremental is true
+incremental is false
+hasDelta is true
+compiler source
+start
+Using build context: org.sonatype.plexus.build.incremental.DefaultBuildContext@7fcf294e
+getSourceDirectory: /Users/mindashuang/git/wsilk-sample/src/main/java
+incremental is true
+incremental is false
+hasDelta is true
+compiler source
+start
+Using build context: org.sonatype.plexus.build.incremental.DefaultBuildContext@65f2f9b0
+getSourceDirectory: /Users/mindashuang/git/wsilk-sample/src/main/java
+incremental is true
+incremental is false
+hasDelta is true
+compiler source
+start
+Using build context: org.eclipse.m2e.core.internal.embedder.EclipseBuildContext@b932547
+getSourceDirectory: /Users/mindashuang/git/wsilk-sample/src/main/java
+incremental is true
+incremental is true
+hasDelta is false
+Code generation is skipped in build because code was not modified.
+start
+Using build context: org.sonatype.plexus.build.incremental.DefaultBuildContext@65f2f9b0
+getSourceDirectory: /Users/mindashuang/git/wsilk-sample/src/main/java
+incremental is true
+incremental is false
+hasDelta is true
+compiler source
+execute error
+java.lang.NullPointerException: Tried to insert a null child in the tree
+	at nu.xom.Element.insertionAllowed(Unknown Source)
+	at nu.xom.ParentNode._insertChild(Unknown Source)
+	at nu.xom.ParentNode.insertChild(Unknown Source)
+	at nu.xom.ParentNode.appendChild(Unknown Source)
+	at com.wuba.wsilk.maven.PomUpdate.save(PomUpdate.java:97)
+	at com.wuba.wsilk.maven.PomUpdate.update(PomUpdate.java:52)
+	at com.wuba.wsilk.maven.AbstractProcessorMojo.updatePom(AbstractProcessorMojo.java:393)
+	at com.wuba.wsilk.maven.AbstractProcessorMojo.execute(AbstractProcessorMojo.java:366)
+	at org.apache.maven.plugin.DefaultBuildPluginManager.executeMojo(DefaultBuildPluginManager.java:137)
+	at org.apache.maven.lifecycle.internal.MojoExecutor.execute(MojoExecutor.java:210)
+	at org.apache.maven.lifecycle.internal.MojoExecutor.execute(MojoExecutor.java:156)
+	at org.apache.maven.lifecycle.internal.MojoExecutor.execute(MojoExecutor.java:148)
+	at org.apache.maven.lifecycle.internal.LifecycleModuleBuilder.buildProject(LifecycleModuleBuilder.java:117)
+	at org.apache.maven.lifecycle.internal.LifecycleModuleBuilder.buildProject(LifecycleModuleBuilder.java:81)
+	at org.apache.maven.lifecycle.internal.builder.singlethreaded.SingleThreadedBuilder.build(SingleThreadedBuilder.java:56)
+	at org.apache.maven.lifecycle.internal.LifecycleStarter.execute(LifecycleStarter.java:128)
+	at org.apache.maven.DefaultMaven.doExecute(DefaultMaven.java:305)
+	at org.apache.maven.DefaultMaven.doExecute(DefaultMaven.java:192)
+	at org.apache.maven.DefaultMaven.execute(DefaultMaven.java:105)
+	at org.apache.maven.cli.MavenCli.execute(MavenCli.java:972)
+	at org.apache.maven.cli.MavenCli.doMain(MavenCli.java:293)
+	at org.apache.maven.cli.MavenCli.main(MavenCli.java:196)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.codehaus.plexus.classworlds.launcher.Launcher.launchEnhanced(Launcher.java:282)
+	at org.codehaus.plexus.classworlds.launcher.Launcher.launch(Launcher.java:225)
+	at org.codehaus.plexus.classworlds.launcher.Launcher.mainWithExitCode(Launcher.java:406)
+	at org.codehaus.plexus.classworlds.launcher.Launcher.main(Launcher.java:347)
+
+start
+Using build context: org.sonatype.plexus.build.incremental.DefaultBuildContext@7fcf294e
+getSourceDirectory: /Users/mindashuang/git/wsilk-sample/src/main/java
+incremental is true
+incremental is false
+hasDelta is true
+compiler source
+execute error
+java.lang.NullPointerException: Null encoding
+	at nu.xom.Serializer.<init>(Unknown Source)
+	at com.wuba.wsilk.maven.PomUpdate.save(PomUpdate.java:109)
+	at com.wuba.wsilk.maven.PomUpdate.update(PomUpdate.java:52)
+	at com.wuba.wsilk.maven.AbstractProcessorMojo.updatePom(AbstractProcessorMojo.java:393)
+	at com.wuba.wsilk.maven.AbstractProcessorMojo.execute(AbstractProcessorMojo.java:366)
+	at org.apache.maven.plugin.DefaultBuildPluginManager.executeMojo(DefaultBuildPluginManager.java:137)
+	at org.apache.maven.lifecycle.internal.MojoExecutor.execute(MojoExecutor.java:210)
+	at org.apache.maven.lifecycle.internal.MojoExecutor.execute(MojoExecutor.java:156)
+	at org.apache.maven.lifecycle.internal.MojoExecutor.execute(MojoExecutor.java:148)
+	at org.apache.maven.lifecycle.internal.LifecycleModuleBuilder.buildProject(LifecycleModuleBuilder.java:117)
+	at org.apache.maven.lifecycle.internal.LifecycleModuleBuilder.buildProject(LifecycleModuleBuilder.java:81)
+	at org.apache.maven.lifecycle.internal.builder.singlethreaded.SingleThreadedBuilder.build(SingleThreadedBuilder.java:56)
+	at org.apache.maven.lifecycle.internal.LifecycleStarter.execute(LifecycleStarter.java:128)
+	at org.apache.maven.DefaultMaven.doExecute(DefaultMaven.java:305)
+	at org.apache.maven.DefaultMaven.doExecute(DefaultMaven.java:192)
+	at org.apache.maven.DefaultMaven.execute(DefaultMaven.java:105)
+	at org.apache.maven.cli.MavenCli.execute(MavenCli.java:972)
+	at org.apache.maven.cli.MavenCli.doMain(MavenCli.java:293)
+	at org.apache.maven.cli.MavenCli.main(MavenCli.java:196)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.codehaus.plexus.classworlds.launcher.Launcher.launchEnhanced(Launcher.java:282)
+	at org.codehaus.plexus.classworlds.launcher.Launcher.launch(Launcher.java:225)
+	at org.codehaus.plexus.classworlds.launcher.Launcher.mainWithExitCode(Launcher.java:406)
+	at org.codehaus.plexus.classworlds.launcher.Launcher.main(Launcher.java:347)
+
+start
+Using build context: org.eclipse.m2e.core.internal.embedder.EclipseBuildContext@44a34db3
+getSourceDirectory: /Users/mindashuang/git/wsilk-sample/src/main/java
+incremental is true
+incremental is true
+hasDelta is false
+Code generation is skipped in build because code was not modified.
+start
+Using build context: org.sonatype.plexus.build.incremental.DefaultBuildContext@7fcf294e
+getSourceDirectory: /Users/mindashuang/git/wsilk-sample/src/main/java
+incremental is true
+incremental is false
+hasDelta is true
+compiler source
+execute error
+java.lang.NullPointerException: Tried to insert a null child in the tree
+	at nu.xom.Element.insertionAllowed(Unknown Source)
+	at nu.xom.ParentNode._insertChild(Unknown Source)
+	at nu.xom.ParentNode.insertChild(Unknown Source)
+	at nu.xom.ParentNode.appendChild(Unknown Source)
+	at com.wuba.wsilk.maven.PomUpdate.save(PomUpdate.java:97)
+	at com.wuba.wsilk.maven.PomUpdate.update(PomUpdate.java:52)
+	at com.wuba.wsilk.maven.AbstractProcessorMojo.updatePom(AbstractProcessorMojo.java:393)
+	at com.wuba.wsilk.maven.AbstractProcessorMojo.execute(AbstractProcessorMojo.java:366)
+	at org.apache.maven.plugin.DefaultBuildPluginManager.executeMojo(DefaultBuildPluginManager.java:137)
+	at org.apache.maven.lifecycle.internal.MojoExecutor.execute(MojoExecutor.java:210)
+	at org.apache.maven.lifecycle.internal.MojoExecutor.execute(MojoExecutor.java:156)
+	at org.apache.maven.lifecycle.internal.MojoExecutor.execute(MojoExecutor.java:148)
+	at org.apache.maven.lifecycle.internal.LifecycleModuleBuilder.buildProject(LifecycleModuleBuilder.java:117)
+	at org.apache.maven.lifecycle.internal.LifecycleModuleBuilder.buildProject(LifecycleModuleBuilder.java:81)
+	at org.apache.maven.lifecycle.internal.builder.singlethreaded.SingleThreadedBuilder.build(SingleThreadedBuilder.java:56)
+	at org.apache.maven.lifecycle.internal.LifecycleStarter.execute(LifecycleStarter.java:128)
+	at org.apache.maven.DefaultMaven.doExecute(DefaultMaven.java:305)
+	at org.apache.maven.DefaultMaven.doExecute(DefaultMaven.java:192)
+	at org.apache.maven.DefaultMaven.execute(DefaultMaven.java:105)
+	at org.apache.maven.cli.MavenCli.execute(MavenCli.java:972)
+	at org.apache.maven.cli.MavenCli.doMain(MavenCli.java:293)
+	at org.apache.maven.cli.MavenCli.main(MavenCli.java:196)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.codehaus.plexus.classworlds.launcher.Launcher.launchEnhanced(Launcher.java:282)
+	at org.codehaus.plexus.classworlds.launcher.Launcher.launch(Launcher.java:225)
+	at org.codehaus.plexus.classworlds.launcher.Launcher.mainWithExitCode(Launcher.java:406)
+	at org.codehaus.plexus.classworlds.launcher.Launcher.main(Launcher.java:347)
+
+start
+Using build context: org.sonatype.plexus.build.incremental.DefaultBuildContext@4867ab9f
+getSourceDirectory: /Users/mindashuang/git/wsilk-sample/src/main/java
+incremental is true
+incremental is false
+hasDelta is true
+compiler source
+execute error
+java.lang.NullPointerException: Tried to insert a null child in the tree
+	at nu.xom.Element.insertionAllowed(Unknown Source)
+	at nu.xom.ParentNode._insertChild(Unknown Source)
+	at nu.xom.ParentNode.insertChild(Unknown Source)
+	at nu.xom.ParentNode.appendChild(Unknown Source)
+	at com.wuba.wsilk.maven.PomUpdate.save(PomUpdate.java:97)
+	at com.wuba.wsilk.maven.PomUpdate.update(PomUpdate.java:52)
+	at com.wuba.wsilk.maven.AbstractProcessorMojo.updatePom(AbstractProcessorMojo.java:393)
+	at com.wuba.wsilk.maven.AbstractProcessorMojo.execute(AbstractProcessorMojo.java:366)
+	at org.apache.maven.plugin.DefaultBuildPluginManager.executeMojo(DefaultBuildPluginManager.java:137)
+	at org.apache.maven.lifecycle.internal.MojoExecutor.execute(MojoExecutor.java:210)
+	at org.apache.maven.lifecycle.internal.MojoExecutor.execute(MojoExecutor.java:156)
+	at org.apache.maven.lifecycle.internal.MojoExecutor.execute(MojoExecutor.java:148)
+	at org.apache.maven.lifecycle.internal.LifecycleModuleBuilder.buildProject(LifecycleModuleBuilder.java:117)
+	at org.apache.maven.lifecycle.internal.LifecycleModuleBuilder.buildProject(LifecycleModuleBuilder.java:81)
+	at org.apache.maven.lifecycle.internal.builder.singlethreaded.SingleThreadedBuilder.build(SingleThreadedBuilder.java:56)
+	at org.apache.maven.lifecycle.internal.LifecycleStarter.execute(LifecycleStarter.java:128)
+	at org.apache.maven.DefaultMaven.doExecute(DefaultMaven.java:305)
+	at org.apache.maven.DefaultMaven.doExecute(DefaultMaven.java:192)
+	at org.apache.maven.DefaultMaven.execute(DefaultMaven.java:105)
+	at org.apache.maven.cli.MavenCli.execute(MavenCli.java:972)
+	at org.apache.maven.cli.MavenCli.doMain(MavenCli.java:293)
+	at org.apache.maven.cli.MavenCli.main(MavenCli.java:196)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.codehaus.plexus.classworlds.launcher.Launcher.launchEnhanced(Launcher.java:282)
+	at org.codehaus.plexus.classworlds.launcher.Launcher.launch(Launcher.java:225)
+	at org.codehaus.plexus.classworlds.launcher.Launcher.mainWithExitCode(Launcher.java:406)
+	at org.codehaus.plexus.classworlds.launcher.Launcher.main(Launcher.java:347)
+
+start
+Using build context: org.eclipse.m2e.core.internal.embedder.EclipseBuildContext@5358578c
+getSourceDirectory: /Users/mindashuang/git/wsilk-sample/src/main/java
+incremental is true
+incremental is true
+hasDelta is false
+Code generation is skipped in build because code was not modified.
+start
+Using build context: org.sonatype.plexus.build.incremental.DefaultBuildContext@7fcf294e
+getSourceDirectory: /Users/mindashuang/git/wsilk-sample/src/main/java
+incremental is true
+incremental is false
+hasDelta is true
+compiler source
+execute error
+java.lang.NullPointerException: Tried to insert a null child in the tree
+	at nu.xom.Element.insertionAllowed(Unknown Source)
+	at nu.xom.ParentNode._insertChild(Unknown Source)
+	at nu.xom.ParentNode.insertChild(Unknown Source)
+	at nu.xom.ParentNode.appendChild(Unknown Source)
+	at com.wuba.wsilk.maven.PomUpdate.save(PomUpdate.java:97)
+	at com.wuba.wsilk.maven.PomUpdate.update(PomUpdate.java:52)
+	at com.wuba.wsilk.maven.AbstractProcessorMojo.updatePom(AbstractProcessorMojo.java:393)
+	at com.wuba.wsilk.maven.AbstractProcessorMojo.execute(AbstractProcessorMojo.java:366)
+	at org.apache.maven.plugin.DefaultBuildPluginManager.executeMojo(DefaultBuildPluginManager.java:137)
+	at org.apache.maven.lifecycle.internal.MojoExecutor.execute(MojoExecutor.java:210)
+	at org.apache.maven.lifecycle.internal.MojoExecutor.execute(MojoExecutor.java:156)
+	at org.apache.maven.lifecycle.internal.MojoExecutor.execute(MojoExecutor.java:148)
+	at org.apache.maven.lifecycle.internal.LifecycleModuleBuilder.buildProject(LifecycleModuleBuilder.java:117)
+	at org.apache.maven.lifecycle.internal.LifecycleModuleBuilder.buildProject(LifecycleModuleBuilder.java:81)
+	at org.apache.maven.lifecycle.internal.builder.singlethreaded.SingleThreadedBuilder.build(SingleThreadedBuilder.java:56)
+	at org.apache.maven.lifecycle.internal.LifecycleStarter.execute(LifecycleStarter.java:128)
+	at org.apache.maven.DefaultMaven.doExecute(DefaultMaven.java:305)
+	at org.apache.maven.DefaultMaven.doExecute(DefaultMaven.java:192)
+	at org.apache.maven.DefaultMaven.execute(DefaultMaven.java:105)
+	at org.apache.maven.cli.MavenCli.execute(MavenCli.java:972)
+	at org.apache.maven.cli.MavenCli.doMain(MavenCli.java:293)
+	at org.apache.maven.cli.MavenCli.main(MavenCli.java:196)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.codehaus.plexus.classworlds.launcher.Launcher.launchEnhanced(Launcher.java:282)
+	at org.codehaus.plexus.classworlds.launcher.Launcher.launch(Launcher.java:225)
+	at org.codehaus.plexus.classworlds.launcher.Launcher.mainWithExitCode(Launcher.java:406)
+	at org.codehaus.plexus.classworlds.launcher.Launcher.main(Launcher.java:347)
+
+start
+Using build context: org.eclipse.m2e.core.internal.embedder.EclipseBuildContext@382dea31
+getSourceDirectory: /Users/mindashuang/git/wsilk-sample/src/main/java
+incremental is true
+incremental is true
+hasDelta is false
+Code generation is skipped in build because code was not modified.
+start
+Using build context: org.sonatype.plexus.build.incremental.DefaultBuildContext@65f2f9b0
+getSourceDirectory: /Users/mindashuang/git/wsilk-sample/src/main/java
+incremental is true
+incremental is false
+hasDelta is true
+compiler source
+execute error
+java.lang.NullPointerException: Tried to insert a null child in the tree
+	at nu.xom.Element.insertionAllowed(Unknown Source)
+	at nu.xom.ParentNode._insertChild(Unknown Source)
+	at nu.xom.ParentNode.insertChild(Unknown Source)
+	at nu.xom.ParentNode.appendChild(Unknown Source)
+	at com.wuba.wsilk.maven.PomUpdate.save(PomUpdate.java:97)
+	at com.wuba.wsilk.maven.PomUpdate.update(PomUpdate.java:52)
+	at com.wuba.wsilk.maven.AbstractProcessorMojo.updatePom(AbstractProcessorMojo.java:393)
+	at com.wuba.wsilk.maven.AbstractProcessorMojo.execute(AbstractProcessorMojo.java:366)
+	at org.apache.maven.plugin.DefaultBuildPluginManager.executeMojo(DefaultBuildPluginManager.java:137)
+	at org.apache.maven.lifecycle.internal.MojoExecutor.execute(MojoExecutor.java:210)
+	at org.apache.maven.lifecycle.internal.MojoExecutor.execute(MojoExecutor.java:156)
+	at org.apache.maven.lifecycle.internal.MojoExecutor.execute(MojoExecutor.java:148)
+	at org.apache.maven.lifecycle.internal.LifecycleModuleBuilder.buildProject(LifecycleModuleBuilder.java:117)
+	at org.apache.maven.lifecycle.internal.LifecycleModuleBuilder.buildProject(LifecycleModuleBuilder.java:81)
+	at org.apache.maven.lifecycle.internal.builder.singlethreaded.SingleThreadedBuilder.build(SingleThreadedBuilder.java:56)
+	at org.apache.maven.lifecycle.internal.LifecycleStarter.execute(LifecycleStarter.java:128)
+	at org.apache.maven.DefaultMaven.doExecute(DefaultMaven.java:305)
+	at org.apache.maven.DefaultMaven.doExecute(DefaultMaven.java:192)
+	at org.apache.maven.DefaultMaven.execute(DefaultMaven.java:105)
+	at org.apache.maven.cli.MavenCli.execute(MavenCli.java:972)
+	at org.apache.maven.cli.MavenCli.doMain(MavenCli.java:293)
+	at org.apache.maven.cli.MavenCli.main(MavenCli.java:196)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.codehaus.plexus.classworlds.launcher.Launcher.launchEnhanced(Launcher.java:282)
+	at org.codehaus.plexus.classworlds.launcher.Launcher.launch(Launcher.java:225)
+	at org.codehaus.plexus.classworlds.launcher.Launcher.mainWithExitCode(Launcher.java:406)
+	at org.codehaus.plexus.classworlds.launcher.Launcher.main(Launcher.java:347)
+
+start
+Using build context: org.eclipse.m2e.core.internal.embedder.EclipseBuildContext@6b0c3b06
+getSourceDirectory: /Users/mindashuang/git/wsilk-sample/src/main/java
+incremental is true
+incremental is true
+hasDelta is false
+Code generation is skipped in build because code was not modified.
+start
+Using build context: org.sonatype.plexus.build.incremental.DefaultBuildContext@7fcf294e
+getSourceDirectory: /Users/mindashuang/git/wsilk-sample/src/main/java
+incremental is true
+incremental is false
+hasDelta is true
+compiler source
+start
+Using build context: org.sonatype.plexus.build.incremental.DefaultBuildContext@65f2f9b0
+getSourceDirectory: /Users/mindashuang/git/wsilk-sample/src/main/java
+incremental is true
+incremental is false
+hasDelta is true
+compiler source
+start
+Using build context: org.sonatype.plexus.build.incremental.DefaultBuildContext@7fcf294e
+getSourceDirectory: /Users/mindashuang/git/wsilk-sample/src/main/java
+incremental is true
+incremental is false
+hasDelta is true
+compiler source
+generatate over
+start
+Using build context: org.eclipse.m2e.core.internal.embedder.EclipseBuildContext@22a9ac08
+getSourceDirectory: /Users/mindashuang/git/wsilk-sample/src/main/java
+incremental is true
+incremental is true
+hasDelta is false
+Code generation is skipped in build because code was not modified.
+start
+Using build context: org.eclipse.m2e.core.internal.embedder.EclipseBuildContext@42a8920
+getSourceDirectory: /Users/mindashuang/git/wsilk-sample/src/main/java
+incremental is true
+incremental is true
+hasDelta is false
+Code generation is skipped in build because code was not modified.
+start
+Using build context: org.sonatype.plexus.build.incremental.DefaultBuildContext@5aa360ea
+getSourceDirectory: /Users/mindashuang/git/wsilk-sample/src/main/java
+incremental is true
+incremental is false
+hasDelta is true
+compiler source
+generatate over
+start
+Using build context: org.eclipse.m2e.core.internal.embedder.EclipseBuildContext@632cfa6a
+getSourceDirectory: /Users/mindashuang/git/wsilk-sample/src/main/java
+incremental is true
+incremental is true
+hasDelta is false
+Code generation is skipped in build because code was not modified.
+start
+Using build context: org.eclipse.m2e.core.internal.embedder.EclipseBuildContext@459f923e
+getSourceDirectory: /Users/mindashuang/git/wsilk-sample/src/main/java
+incremental is true
+incremental is true
+hasDelta is false
+Code generation is skipped in build because code was not modified.
+start
+Using build context: org.eclipse.m2e.core.internal.embedder.EclipseBuildContext@70ba9121
+getSourceDirectory: /Users/mindashuang/git/wsilk-sample/src/main/java
+incremental is true
+incremental is true
+hasDelta is false
+Code generation is skipped in build because code was not modified.
+start
+Using build context: org.eclipse.m2e.core.internal.embedder.EclipseBuildContext@15121331
+getSourceDirectory: /Users/mindashuang/git/wsilk-sample/src/main/java
+incremental is true
+incremental is true
+hasDelta is false
+Code generation is skipped in build because code was not modified.
+start
+Using build context: org.eclipse.m2e.core.internal.embedder.EclipseBuildContext@22c29044
+getSourceDirectory: /Users/mindashuang/git/wsilk-sample/src/main/java
+incremental is true
+incremental is true
+hasDelta is false
+Code generation is skipped in build because code was not modified.
+start
+Using build context: org.eclipse.m2e.core.internal.embedder.EclipseBuildContext@a32089e
+getSourceDirectory: /Users/mindashuang/git/wsilk-sample/src/main/java
+incremental is true
+incremental is true
+hasDelta is false
+Code generation is skipped in build because code was not modified.
+start
+Using build context: org.sonatype.plexus.build.incremental.DefaultBuildContext@492fc69e
+getSourceDirectory: /Users/mindashuang/git/wsilk-sample/src/main/java
+incremental is true
+incremental is false
+hasDelta is true
+compiler source
+generatate over
+start
+Using build context: org.eclipse.m2e.core.internal.embedder.EclipseBuildContext@72015239
+getSourceDirectory: /Users/mindashuang/git/wsilk-sample/src/main/java
+incremental is true
+incremental is true
+hasDelta is false
+Code generation is skipped in build because code was not modified.
+start
+Using build context: org.eclipse.m2e.core.internal.embedder.EclipseBuildContext@2b76d1f3
+getSourceDirectory: /Users/mindashuang/git/wsilk-sample/src/main/java
+incremental is true
+incremental is true
+hasDelta is false
+Code generation is skipped in build because code was not modified.
+start
+Using build context: org.sonatype.plexus.build.incremental.DefaultBuildContext@5aa360ea
+getSourceDirectory: /Users/mindashuang/git/wsilk-sample/src/main/java
+incremental is true
+incremental is false
+hasDelta is true
+compiler source
+generatate over
+start
+Using build context: org.eclipse.m2e.core.internal.embedder.EclipseBuildContext@2e29d96
+getSourceDirectory: /Users/mindashuang/git/wsilk-sample/src/main/java
+incremental is true
+incremental is true
+hasDelta is false
+Code generation is skipped in build because code was not modified.
+start
+Using build context: org.eclipse.m2e.core.internal.embedder.EclipseBuildContext@21ab6f72
+getSourceDirectory: /Users/mindashuang/git/wsilk-sample/src/main/java
+incremental is true
+incremental is true
+hasDelta is false
+Code generation is skipped in build because code was not modified.
+start
+Using build context: org.sonatype.plexus.build.incremental.DefaultBuildContext@2fb68ec6
+getSourceDirectory: /Users/mindashuang/git/wsilk-sample/src/main/java
+incremental is true
+incremental is false
+hasDelta is true
+compiler source
+execute error
+nu.xom.MultipleParentException: [nu.xom.Comment: wsilk_end] child already has a parent.
+	at nu.xom.Element.insertionAllowed(Unknown Source)
+	at nu.xom.ParentNode._insertChild(Unknown Source)
+	at nu.xom.ParentNode.insertChild(Unknown Source)
+	at nu.xom.ParentNode.appendChild(Unknown Source)
+	at com.wuba.wsilk.maven.PomUpdate.save(PomUpdate.java:109)
+	at com.wuba.wsilk.maven.PomUpdate.update(PomUpdate.java:52)
+	at com.wuba.wsilk.maven.AbstractProcessorMojo.updatePom(AbstractProcessorMojo.java:395)
+	at com.wuba.wsilk.maven.AbstractProcessorMojo.execute(AbstractProcessorMojo.java:368)
+	at org.apache.maven.plugin.DefaultBuildPluginManager.executeMojo(DefaultBuildPluginManager.java:137)
+	at org.apache.maven.lifecycle.internal.MojoExecutor.execute(MojoExecutor.java:210)
+	at org.apache.maven.lifecycle.internal.MojoExecutor.execute(MojoExecutor.java:156)
+	at org.apache.maven.lifecycle.internal.MojoExecutor.execute(MojoExecutor.java:148)
+	at org.apache.maven.lifecycle.internal.LifecycleModuleBuilder.buildProject(LifecycleModuleBuilder.java:117)
+	at org.apache.maven.lifecycle.internal.LifecycleModuleBuilder.buildProject(LifecycleModuleBuilder.java:81)
+	at org.apache.maven.lifecycle.internal.builder.singlethreaded.SingleThreadedBuilder.build(SingleThreadedBuilder.java:56)
+	at org.apache.maven.lifecycle.internal.LifecycleStarter.execute(LifecycleStarter.java:128)
+	at org.apache.maven.DefaultMaven.doExecute(DefaultMaven.java:305)
+	at org.apache.maven.DefaultMaven.doExecute(DefaultMaven.java:192)
+	at org.apache.maven.DefaultMaven.execute(DefaultMaven.java:105)
+	at org.apache.maven.cli.MavenCli.execute(MavenCli.java:972)
+	at org.apache.maven.cli.MavenCli.doMain(MavenCli.java:293)
+	at org.apache.maven.cli.MavenCli.main(MavenCli.java:196)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.codehaus.plexus.classworlds.launcher.Launcher.launchEnhanced(Launcher.java:282)
+	at org.codehaus.plexus.classworlds.launcher.Launcher.launch(Launcher.java:225)
+	at org.codehaus.plexus.classworlds.launcher.Launcher.mainWithExitCode(Launcher.java:406)
+	at org.codehaus.plexus.classworlds.launcher.Launcher.main(Launcher.java:347)
+
+start
+Using build context: org.eclipse.m2e.core.internal.embedder.EclipseBuildContext@79069a53
+getSourceDirectory: /Users/mindashuang/git/wsilk-sample/src/main/java
+incremental is true
+incremental is true
+hasDelta is false
+Code generation is skipped in build because code was not modified.
+start
+Using build context: org.eclipse.m2e.core.internal.embedder.EclipseBuildContext@6d0f17ad
+getSourceDirectory: /Users/mindashuang/git/wsilk-sample/src/main/java
+incremental is true
+incremental is true
+hasDelta is false
+Code generation is skipped in build because code was not modified.
+start
+Using build context: org.sonatype.plexus.build.incremental.DefaultBuildContext@6fd12c5
+getSourceDirectory: /Users/mindashuang/git/wsilk-sample/src/main/java
+incremental is true
+incremental is false
+hasDelta is true
+compiler source
+execute error
+nu.xom.MultipleParentException: [nu.xom.Comment: wsilk_end] child already has a parent.
+	at nu.xom.Element.insertionAllowed(Unknown Source)
+	at nu.xom.ParentNode._insertChild(Unknown Source)
+	at nu.xom.ParentNode.insertChild(Unknown Source)
+	at nu.xom.ParentNode.appendChild(Unknown Source)
+	at com.wuba.wsilk.maven.PomUpdate.save(PomUpdate.java:114)
+	at com.wuba.wsilk.maven.PomUpdate.update(PomUpdate.java:53)
+	at com.wuba.wsilk.maven.AbstractProcessorMojo.updatePom(AbstractProcessorMojo.java:391)
+	at com.wuba.wsilk.maven.AbstractProcessorMojo.execute(AbstractProcessorMojo.java:365)
+	at org.apache.maven.plugin.DefaultBuildPluginManager.executeMojo(DefaultBuildPluginManager.java:137)
+	at org.apache.maven.lifecycle.internal.MojoExecutor.execute(MojoExecutor.java:210)
+	at org.apache.maven.lifecycle.internal.MojoExecutor.execute(MojoExecutor.java:156)
+	at org.apache.maven.lifecycle.internal.MojoExecutor.execute(MojoExecutor.java:148)
+	at org.apache.maven.lifecycle.internal.LifecycleModuleBuilder.buildProject(LifecycleModuleBuilder.java:117)
+	at org.apache.maven.lifecycle.internal.LifecycleModuleBuilder.buildProject(LifecycleModuleBuilder.java:81)
+	at org.apache.maven.lifecycle.internal.builder.singlethreaded.SingleThreadedBuilder.build(SingleThreadedBuilder.java:56)
+	at org.apache.maven.lifecycle.internal.LifecycleStarter.execute(LifecycleStarter.java:128)
+	at org.apache.maven.DefaultMaven.doExecute(DefaultMaven.java:305)
+	at org.apache.maven.DefaultMaven.doExecute(DefaultMaven.java:192)
+	at org.apache.maven.DefaultMaven.execute(DefaultMaven.java:105)
+	at org.apache.maven.cli.MavenCli.execute(MavenCli.java:972)
+	at org.apache.maven.cli.MavenCli.doMain(MavenCli.java:293)
+	at org.apache.maven.cli.MavenCli.main(MavenCli.java:196)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.codehaus.plexus.classworlds.launcher.Launcher.launchEnhanced(Launcher.java:282)
+	at org.codehaus.plexus.classworlds.launcher.Launcher.launch(Launcher.java:225)
+	at org.codehaus.plexus.classworlds.launcher.Launcher.mainWithExitCode(Launcher.java:406)
+	at org.codehaus.plexus.classworlds.launcher.Launcher.main(Launcher.java:347)
+
+start
+Using build context: org.eclipse.m2e.core.internal.embedder.EclipseBuildContext@7ec018aa
+getSourceDirectory: /Users/mindashuang/git/wsilk-sample/src/main/java
+incremental is true
+incremental is true
+hasDelta is false
+Code generation is skipped in build because code was not modified.
+start
+Using build context: org.sonatype.plexus.build.incremental.DefaultBuildContext@71652c98
+getSourceDirectory: /Users/mindashuang/git/wsilk-sample/src/main/java
+incremental is true
+incremental is false
+hasDelta is true
+compiler source
+execute error
+nu.xom.MultipleParentException: [nu.xom.Comment: wsilk_end] child already has a parent.
+	at nu.xom.Element.insertionAllowed(Unknown Source)
+	at nu.xom.ParentNode._insertChild(Unknown Source)
+	at nu.xom.ParentNode.insertChild(Unknown Source)
+	at nu.xom.ParentNode.appendChild(Unknown Source)
+	at com.wuba.wsilk.maven.PomUpdate.save(PomUpdate.java:114)
+	at com.wuba.wsilk.maven.PomUpdate.update(PomUpdate.java:53)
+	at com.wuba.wsilk.maven.AbstractProcessorMojo.updatePom(AbstractProcessorMojo.java:391)
+	at com.wuba.wsilk.maven.AbstractProcessorMojo.execute(AbstractProcessorMojo.java:365)
+	at org.apache.maven.plugin.DefaultBuildPluginManager.executeMojo(DefaultBuildPluginManager.java:137)
+	at org.apache.maven.lifecycle.internal.MojoExecutor.execute(MojoExecutor.java:210)
+	at org.apache.maven.lifecycle.internal.MojoExecutor.execute(MojoExecutor.java:156)
+	at org.apache.maven.lifecycle.internal.MojoExecutor.execute(MojoExecutor.java:148)
+	at org.apache.maven.lifecycle.internal.LifecycleModuleBuilder.buildProject(LifecycleModuleBuilder.java:117)
+	at org.apache.maven.lifecycle.internal.LifecycleModuleBuilder.buildProject(LifecycleModuleBuilder.java:81)
+	at org.apache.maven.lifecycle.internal.builder.singlethreaded.SingleThreadedBuilder.build(SingleThreadedBuilder.java:56)
+	at org.apache.maven.lifecycle.internal.LifecycleStarter.execute(LifecycleStarter.java:128)
+	at org.apache.maven.DefaultMaven.doExecute(DefaultMaven.java:305)
+	at org.apache.maven.DefaultMaven.doExecute(DefaultMaven.java:192)
+	at org.apache.maven.DefaultMaven.execute(DefaultMaven.java:105)
+	at org.apache.maven.cli.MavenCli.execute(MavenCli.java:972)
+	at org.apache.maven.cli.MavenCli.doMain(MavenCli.java:293)
+	at org.apache.maven.cli.MavenCli.main(MavenCli.java:196)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.codehaus.plexus.classworlds.launcher.Launcher.launchEnhanced(Launcher.java:282)
+	at org.codehaus.plexus.classworlds.launcher.Launcher.launch(Launcher.java:225)
+	at org.codehaus.plexus.classworlds.launcher.Launcher.mainWithExitCode(Launcher.java:406)
+	at org.codehaus.plexus.classworlds.launcher.Launcher.main(Launcher.java:347)
+
+start
+Using build context: org.eclipse.m2e.core.internal.embedder.EclipseBuildContext@6e040459
+getSourceDirectory: /Users/mindashuang/git/wsilk-sample/src/main/java
+incremental is true
+incremental is true
+hasDelta is false
+Code generation is skipped in build because code was not modified.
+start
+Using build context: org.eclipse.m2e.core.internal.embedder.EclipseBuildContext@6c4f1b28
+getSourceDirectory: /Users/mindashuang/git/wsilk-sample/src/main/java
+incremental is true
+incremental is true
+hasDelta is false
+Code generation is skipped in build because code was not modified.
+start
+Using build context: org.sonatype.plexus.build.incremental.DefaultBuildContext@17a703f5
+getSourceDirectory: /Users/mindashuang/git/wsilk-sample/src/main/java
+incremental is true
+incremental is false
+hasDelta is true
+compiler source
+generatate over
+start
+Using build context: org.eclipse.m2e.core.internal.embedder.EclipseBuildContext@4c47da32
+getSourceDirectory: /Users/mindashuang/git/wsilk-sample/src/main/java
+incremental is true
+incremental is true
+hasDelta is false
+Code generation is skipped in build because code was not modified.
+start
+Using build context: org.eclipse.m2e.core.internal.embedder.EclipseBuildContext@10db920
+getSourceDirectory: /Users/mindashuang/git/wsilk-sample/src/main/java
+incremental is true
+incremental is true
+hasDelta is false
+Code generation is skipped in build because code was not modified.
+start
+Using build context: org.eclipse.m2e.core.internal.embedder.EclipseBuildContext@6ae041e5
+getSourceDirectory: /Users/mindashuang/git/wsilk-sample/src/main/java
+incremental is true
+incremental is true
+hasDelta is false
+Code generation is skipped in build because code was not modified.
+start
+Using build context: org.sonatype.plexus.build.incremental.DefaultBuildContext@6fd12c5
+getSourceDirectory: /Users/mindashuang/git/wsilk-sample/src/main/java
+incremental is true
+incremental is false
+hasDelta is true
+compiler source
+execute error
+nu.xom.MultipleParentException: [nu.xom.Comment: wsilk_end] child already has a parent.
+	at nu.xom.Element.insertionAllowed(Unknown Source)
+	at nu.xom.ParentNode._insertChild(Unknown Source)
+	at nu.xom.ParentNode.insertChild(Unknown Source)
+	at nu.xom.ParentNode.appendChild(Unknown Source)
+	at com.wuba.wsilk.maven.PomUpdate.save(PomUpdate.java:114)
+	at com.wuba.wsilk.maven.PomUpdate.update(PomUpdate.java:53)
+	at com.wuba.wsilk.maven.AbstractProcessorMojo.updatePom(AbstractProcessorMojo.java:391)
+	at com.wuba.wsilk.maven.AbstractProcessorMojo.execute(AbstractProcessorMojo.java:365)
+	at org.apache.maven.plugin.DefaultBuildPluginManager.executeMojo(DefaultBuildPluginManager.java:137)
+	at org.apache.maven.lifecycle.internal.MojoExecutor.execute(MojoExecutor.java:210)
+	at org.apache.maven.lifecycle.internal.MojoExecutor.execute(MojoExecutor.java:156)
+	at org.apache.maven.lifecycle.internal.MojoExecutor.execute(MojoExecutor.java:148)
+	at org.apache.maven.lifecycle.internal.LifecycleModuleBuilder.buildProject(LifecycleModuleBuilder.java:117)
+	at org.apache.maven.lifecycle.internal.LifecycleModuleBuilder.buildProject(LifecycleModuleBuilder.java:81)
+	at org.apache.maven.lifecycle.internal.builder.singlethreaded.SingleThreadedBuilder.build(SingleThreadedBuilder.java:56)
+	at org.apache.maven.lifecycle.internal.LifecycleStarter.execute(LifecycleStarter.java:128)
+	at org.apache.maven.DefaultMaven.doExecute(DefaultMaven.java:305)
+	at org.apache.maven.DefaultMaven.doExecute(DefaultMaven.java:192)
+	at org.apache.maven.DefaultMaven.execute(DefaultMaven.java:105)
+	at org.apache.maven.cli.MavenCli.execute(MavenCli.java:972)
+	at org.apache.maven.cli.MavenCli.doMain(MavenCli.java:293)
+	at org.apache.maven.cli.MavenCli.main(MavenCli.java:196)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.codehaus.plexus.classworlds.launcher.Launcher.launchEnhanced(Launcher.java:282)
+	at org.codehaus.plexus.classworlds.launcher.Launcher.launch(Launcher.java:225)
+	at org.codehaus.plexus.classworlds.launcher.Launcher.mainWithExitCode(Launcher.java:406)
+	at org.codehaus.plexus.classworlds.launcher.Launcher.main(Launcher.java:347)
+
+start
+Using build context: org.eclipse.m2e.core.internal.embedder.EclipseBuildContext@45ad881f
+getSourceDirectory: /Users/mindashuang/git/wsilk-sample/src/main/java
+incremental is true
+incremental is true
+hasDelta is false
+Code generation is skipped in build because code was not modified.
+start
+Using build context: org.sonatype.plexus.build.incremental.DefaultBuildContext@71652c98
+getSourceDirectory: /Users/mindashuang/git/wsilk-sample/src/main/java
+incremental is true
+incremental is false
+hasDelta is true
+compiler source
+generatate over
+start
+Using build context: org.eclipse.m2e.core.internal.embedder.EclipseBuildContext@1a5684b7
+getSourceDirectory: /Users/mindashuang/git/wsilk-sample/src/main/java
+incremental is true
+incremental is true
+hasDelta is false
+Code generation is skipped in build because code was not modified.
+start
+Using build context: org.eclipse.m2e.core.internal.embedder.EclipseBuildContext@374c3b16
+getSourceDirectory: /Users/mindashuang/git/wsilk-sample/src/main/java
+incremental is true
+incremental is true
+hasDelta is false
+Code generation is skipped in build because code was not modified.
+start
+Using build context: org.sonatype.plexus.build.incremental.DefaultBuildContext@71652c98
+getSourceDirectory: /Users/mindashuang/git/wsilk-sample/src/main/java
+incremental is true
+incremental is false
+hasDelta is true
+compiler source
+generatate over
+start
+Using build context: org.eclipse.m2e.core.internal.embedder.EclipseBuildContext@11c95450
+getSourceDirectory: /Users/mindashuang/git/wsilk-sample/src/main/java
+incremental is true
+incremental is true
+hasDelta is false
+Code generation is skipped in build because code was not modified.
+start
+Using build context: org.eclipse.m2e.core.internal.embedder.EclipseBuildContext@674955ea
+getSourceDirectory: /Users/mindashuang/git/wsilk-sample/src/main/java
+incremental is true
+incremental is true
+hasDelta is false
+Code generation is skipped in build because code was not modified.
+start
+Using build context: org.sonatype.plexus.build.incremental.DefaultBuildContext@71652c98
+getSourceDirectory: /Users/mindashuang/git/wsilk-sample/src/main/java
+incremental is true
+incremental is false
+hasDelta is true
+compiler source
+execute error
+java.lang.NullPointerException
+	at nu.xom.Element.<init>(Unknown Source)
+	at com.wuba.wsilk.maven.PomUpdate.create(PomUpdate.java:137)
+	at com.wuba.wsilk.maven.PomUpdate.save(PomUpdate.java:111)
+	at com.wuba.wsilk.maven.PomUpdate.update(PomUpdate.java:53)
+	at com.wuba.wsilk.maven.AbstractProcessorMojo.updatePom(AbstractProcessorMojo.java:391)
+	at com.wuba.wsilk.maven.AbstractProcessorMojo.execute(AbstractProcessorMojo.java:365)
+	at org.apache.maven.plugin.DefaultBuildPluginManager.executeMojo(DefaultBuildPluginManager.java:137)
+	at org.apache.maven.lifecycle.internal.MojoExecutor.execute(MojoExecutor.java:210)
+	at org.apache.maven.lifecycle.internal.MojoExecutor.execute(MojoExecutor.java:156)
+	at org.apache.maven.lifecycle.internal.MojoExecutor.execute(MojoExecutor.java:148)
+	at org.apache.maven.lifecycle.internal.LifecycleModuleBuilder.buildProject(LifecycleModuleBuilder.java:117)
+	at org.apache.maven.lifecycle.internal.LifecycleModuleBuilder.buildProject(LifecycleModuleBuilder.java:81)
+	at org.apache.maven.lifecycle.internal.builder.singlethreaded.SingleThreadedBuilder.build(SingleThreadedBuilder.java:56)
+	at org.apache.maven.lifecycle.internal.LifecycleStarter.execute(LifecycleStarter.java:128)
+	at org.apache.maven.DefaultMaven.doExecute(DefaultMaven.java:305)
+	at org.apache.maven.DefaultMaven.doExecute(DefaultMaven.java:192)
+	at org.apache.maven.DefaultMaven.execute(DefaultMaven.java:105)
+	at org.apache.maven.cli.MavenCli.execute(MavenCli.java:972)
+	at org.apache.maven.cli.MavenCli.doMain(MavenCli.java:293)
+	at org.apache.maven.cli.MavenCli.main(MavenCli.java:196)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.codehaus.plexus.classworlds.launcher.Launcher.launchEnhanced(Launcher.java:282)
+	at org.codehaus.plexus.classworlds.launcher.Launcher.launch(Launcher.java:225)
+	at org.codehaus.plexus.classworlds.launcher.Launcher.mainWithExitCode(Launcher.java:406)
+	at org.codehaus.plexus.classworlds.launcher.Launcher.main(Launcher.java:347)
+
+start
+Using build context: org.eclipse.m2e.core.internal.embedder.EclipseBuildContext@69290fa6
+getSourceDirectory: /Users/mindashuang/git/wsilk-sample/src/main/java
+incremental is true
+incremental is true
+hasDelta is false
+Code generation is skipped in build because code was not modified.
+start
+Using build context: org.sonatype.plexus.build.incremental.DefaultBuildContext@71652c98
+getSourceDirectory: /Users/mindashuang/git/wsilk-sample/src/main/java
+incremental is true
+incremental is false
+hasDelta is true
+compiler source
+execute error
+java.lang.NullPointerException
+	at nu.xom.Element.<init>(Unknown Source)
+	at com.wuba.wsilk.maven.PomUpdate.create(PomUpdate.java:137)
+	at com.wuba.wsilk.maven.PomUpdate.save(PomUpdate.java:111)
+	at com.wuba.wsilk.maven.PomUpdate.update(PomUpdate.java:53)
+	at com.wuba.wsilk.maven.AbstractProcessorMojo.updatePom(AbstractProcessorMojo.java:391)
+	at com.wuba.wsilk.maven.AbstractProcessorMojo.execute(AbstractProcessorMojo.java:365)
+	at org.apache.maven.plugin.DefaultBuildPluginManager.executeMojo(DefaultBuildPluginManager.java:137)
+	at org.apache.maven.lifecycle.internal.MojoExecutor.execute(MojoExecutor.java:210)
+	at org.apache.maven.lifecycle.internal.MojoExecutor.execute(MojoExecutor.java:156)
+	at org.apache.maven.lifecycle.internal.MojoExecutor.execute(MojoExecutor.java:148)
+	at org.apache.maven.lifecycle.internal.LifecycleModuleBuilder.buildProject(LifecycleModuleBuilder.java:117)
+	at org.apache.maven.lifecycle.internal.LifecycleModuleBuilder.buildProject(LifecycleModuleBuilder.java:81)
+	at org.apache.maven.lifecycle.internal.builder.singlethreaded.SingleThreadedBuilder.build(SingleThreadedBuilder.java:56)
+	at org.apache.maven.lifecycle.internal.LifecycleStarter.execute(LifecycleStarter.java:128)
+	at org.apache.maven.DefaultMaven.doExecute(DefaultMaven.java:305)
+	at org.apache.maven.DefaultMaven.doExecute(DefaultMaven.java:192)
+	at org.apache.maven.DefaultMaven.execute(DefaultMaven.java:105)
+	at org.apache.maven.cli.MavenCli.execute(MavenCli.java:972)
+	at org.apache.maven.cli.MavenCli.doMain(MavenCli.java:293)
+	at org.apache.maven.cli.MavenCli.main(MavenCli.java:196)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.codehaus.plexus.classworlds.launcher.Launcher.launchEnhanced(Launcher.java:282)
+	at org.codehaus.plexus.classworlds.launcher.Launcher.launch(Launcher.java:225)
+	at org.codehaus.plexus.classworlds.launcher.Launcher.mainWithExitCode(Launcher.java:406)
+	at org.codehaus.plexus.classworlds.launcher.Launcher.main(Launcher.java:347)
+
+start
+Using build context: org.eclipse.m2e.core.internal.embedder.EclipseBuildContext@45ec1ee4
+getSourceDirectory: /Users/mindashuang/git/wsilk-sample/src/main/java
+incremental is true
+incremental is true
+hasDelta is false
+Code generation is skipped in build because code was not modified.
+start
+Using build context: org.sonatype.plexus.build.incremental.DefaultBuildContext@3e1a3801
+getSourceDirectory: /Users/mindashuang/git/wsilk-sample/src/main/java
+incremental is true
+incremental is false
+hasDelta is true
+compiler source
+execute error
+java.lang.NullPointerException
+	at nu.xom.Element.<init>(Unknown Source)
+	at com.wuba.wsilk.maven.PomUpdate.create(PomUpdate.java:137)
+	at com.wuba.wsilk.maven.PomUpdate.save(PomUpdate.java:111)
+	at com.wuba.wsilk.maven.PomUpdate.update(PomUpdate.java:53)
+	at com.wuba.wsilk.maven.AbstractProcessorMojo.updatePom(AbstractProcessorMojo.java:391)
+	at com.wuba.wsilk.maven.AbstractProcessorMojo.execute(AbstractProcessorMojo.java:365)
+	at org.apache.maven.plugin.DefaultBuildPluginManager.executeMojo(DefaultBuildPluginManager.java:137)
+	at org.apache.maven.lifecycle.internal.MojoExecutor.execute(MojoExecutor.java:210)
+	at org.apache.maven.lifecycle.internal.MojoExecutor.execute(MojoExecutor.java:156)
+	at org.apache.maven.lifecycle.internal.MojoExecutor.execute(MojoExecutor.java:148)
+	at org.apache.maven.lifecycle.internal.LifecycleModuleBuilder.buildProject(LifecycleModuleBuilder.java:117)
+	at org.apache.maven.lifecycle.internal.LifecycleModuleBuilder.buildProject(LifecycleModuleBuilder.java:81)
+	at org.apache.maven.lifecycle.internal.builder.singlethreaded.SingleThreadedBuilder.build(SingleThreadedBuilder.java:56)
+	at org.apache.maven.lifecycle.internal.LifecycleStarter.execute(LifecycleStarter.java:128)
+	at org.apache.maven.DefaultMaven.doExecute(DefaultMaven.java:305)
+	at org.apache.maven.DefaultMaven.doExecute(DefaultMaven.java:192)
+	at org.apache.maven.DefaultMaven.execute(DefaultMaven.java:105)
+	at org.apache.maven.cli.MavenCli.execute(MavenCli.java:972)
+	at org.apache.maven.cli.MavenCli.doMain(MavenCli.java:293)
+	at org.apache.maven.cli.MavenCli.main(MavenCli.java:196)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.codehaus.plexus.classworlds.launcher.Launcher.launchEnhanced(Launcher.java:282)
+	at org.codehaus.plexus.classworlds.launcher.Launcher.launch(Launcher.java:225)
+	at org.codehaus.plexus.classworlds.launcher.Launcher.mainWithExitCode(Launcher.java:406)
+	at org.codehaus.plexus.classworlds.launcher.Launcher.main(Launcher.java:347)
+
+start
+Using build context: org.eclipse.m2e.core.internal.embedder.EclipseBuildContext@56a1d837
+getSourceDirectory: /Users/mindashuang/git/wsilk-sample/src/main/java
+incremental is true
+incremental is true
+hasDelta is false
+Code generation is skipped in build because code was not modified.
+start
+Using build context: org.sonatype.plexus.build.incremental.DefaultBuildContext@6fd12c5
+getSourceDirectory: /Users/mindashuang/git/wsilk-sample/src/main/java
+incremental is true
+incremental is false
+hasDelta is true
+compiler source
+execute error
+java.lang.NullPointerException
+	at nu.xom.Element.<init>(Unknown Source)
+	at com.wuba.wsilk.maven.PomUpdate.create(PomUpdate.java:137)
+	at com.wuba.wsilk.maven.PomUpdate.save(PomUpdate.java:111)
+	at com.wuba.wsilk.maven.PomUpdate.update(PomUpdate.java:53)
+	at com.wuba.wsilk.maven.AbstractProcessorMojo.updatePom(AbstractProcessorMojo.java:391)
+	at com.wuba.wsilk.maven.AbstractProcessorMojo.execute(AbstractProcessorMojo.java:365)
+	at org.apache.maven.plugin.DefaultBuildPluginManager.executeMojo(DefaultBuildPluginManager.java:137)
+	at org.apache.maven.lifecycle.internal.MojoExecutor.execute(MojoExecutor.java:210)
+	at org.apache.maven.lifecycle.internal.MojoExecutor.execute(MojoExecutor.java:156)
+	at org.apache.maven.lifecycle.internal.MojoExecutor.execute(MojoExecutor.java:148)
+	at org.apache.maven.lifecycle.internal.LifecycleModuleBuilder.buildProject(LifecycleModuleBuilder.java:117)
+	at org.apache.maven.lifecycle.internal.LifecycleModuleBuilder.buildProject(LifecycleModuleBuilder.java:81)
+	at org.apache.maven.lifecycle.internal.builder.singlethreaded.SingleThreadedBuilder.build(SingleThreadedBuilder.java:56)
+	at org.apache.maven.lifecycle.internal.LifecycleStarter.execute(LifecycleStarter.java:128)
+	at org.apache.maven.DefaultMaven.doExecute(DefaultMaven.java:305)
+	at org.apache.maven.DefaultMaven.doExecute(DefaultMaven.java:192)
+	at org.apache.maven.DefaultMaven.execute(DefaultMaven.java:105)
+	at org.apache.maven.cli.MavenCli.execute(MavenCli.java:972)
+	at org.apache.maven.cli.MavenCli.doMain(MavenCli.java:293)
+	at org.apache.maven.cli.MavenCli.main(MavenCli.java:196)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.codehaus.plexus.classworlds.launcher.Launcher.launchEnhanced(Launcher.java:282)
+	at org.codehaus.plexus.classworlds.launcher.Launcher.launch(Launcher.java:225)
+	at org.codehaus.plexus.classworlds.launcher.Launcher.mainWithExitCode(Launcher.java:406)
+	at org.codehaus.plexus.classworlds.launcher.Launcher.main(Launcher.java:347)
+
+start
+Using build context: org.eclipse.m2e.core.internal.embedder.EclipseBuildContext@32c674f1
+getSourceDirectory: /Users/mindashuang/git/wsilk-sample/src/main/java
+incremental is true
+incremental is true
+hasDelta is false
+Code generation is skipped in build because code was not modified.
+start
+Using build context: org.sonatype.plexus.build.incremental.DefaultBuildContext@1de0a46c
+getSourceDirectory: /Users/mindashuang/git/wsilk-sample/src/main/java
+incremental is true
+incremental is false
+hasDelta is true
+compiler source
+start
+Using build context: org.eclipse.m2e.core.internal.embedder.EclipseBuildContext@1732e6fd
+getSourceDirectory: /Users/mindashuang/git/wsilk-sample/src/main/java
+incremental is true
+incremental is true
+hasDelta is false
+Code generation is skipped in build because code was not modified.
+start
+Using build context: org.sonatype.plexus.build.incremental.DefaultBuildContext@71652c98
+getSourceDirectory: /Users/mindashuang/git/wsilk-sample/src/main/java
+incremental is true
+incremental is false
+hasDelta is true
+compiler source
+execute error
+nu.xom.MultipleParentException: [nu.xom.Comment: wsilk_end] child already has a parent.
+	at nu.xom.Element.insertionAllowed(Unknown Source)
+	at nu.xom.ParentNode._insertChild(Unknown Source)
+	at nu.xom.ParentNode.insertChild(Unknown Source)
+	at nu.xom.ParentNode.appendChild(Unknown Source)
+	at com.wuba.wsilk.maven.PomUpdate.save(PomUpdate.java:113)
+	at com.wuba.wsilk.maven.PomUpdate.update(PomUpdate.java:53)
+	at com.wuba.wsilk.maven.AbstractProcessorMojo.updatePom(AbstractProcessorMojo.java:391)
+	at com.wuba.wsilk.maven.AbstractProcessorMojo.execute(AbstractProcessorMojo.java:365)
+	at org.apache.maven.plugin.DefaultBuildPluginManager.executeMojo(DefaultBuildPluginManager.java:137)
+	at org.apache.maven.lifecycle.internal.MojoExecutor.execute(MojoExecutor.java:210)
+	at org.apache.maven.lifecycle.internal.MojoExecutor.execute(MojoExecutor.java:156)
+	at org.apache.maven.lifecycle.internal.MojoExecutor.execute(MojoExecutor.java:148)
+	at org.apache.maven.lifecycle.internal.LifecycleModuleBuilder.buildProject(LifecycleModuleBuilder.java:117)
+	at org.apache.maven.lifecycle.internal.LifecycleModuleBuilder.buildProject(LifecycleModuleBuilder.java:81)
+	at org.apache.maven.lifecycle.internal.builder.singlethreaded.SingleThreadedBuilder.build(SingleThreadedBuilder.java:56)
+	at org.apache.maven.lifecycle.internal.LifecycleStarter.execute(LifecycleStarter.java:128)
+	at org.apache.maven.DefaultMaven.doExecute(DefaultMaven.java:305)
+	at org.apache.maven.DefaultMaven.doExecute(DefaultMaven.java:192)
+	at org.apache.maven.DefaultMaven.execute(DefaultMaven.java:105)
+	at org.apache.maven.cli.MavenCli.execute(MavenCli.java:972)
+	at org.apache.maven.cli.MavenCli.doMain(MavenCli.java:293)
+	at org.apache.maven.cli.MavenCli.main(MavenCli.java:196)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.codehaus.plexus.classworlds.launcher.Launcher.launchEnhanced(Launcher.java:282)
+	at org.codehaus.plexus.classworlds.launcher.Launcher.launch(Launcher.java:225)
+	at org.codehaus.plexus.classworlds.launcher.Launcher.mainWithExitCode(Launcher.java:406)
+	at org.codehaus.plexus.classworlds.launcher.Launcher.main(Launcher.java:347)
+
+start
+Using build context: org.eclipse.m2e.core.internal.embedder.EclipseBuildContext@2f7c27e7
+getSourceDirectory: /Users/mindashuang/git/wsilk-sample/src/main/java
+incremental is true
+incremental is true
+hasDelta is false
+Code generation is skipped in build because code was not modified.
+start
+Using build context: org.sonatype.plexus.build.incremental.DefaultBuildContext@71652c98
+getSourceDirectory: /Users/mindashuang/git/wsilk-sample/src/main/java
+incremental is true
+incremental is false
+hasDelta is true
+compiler source
+execute error
+nu.xom.MultipleParentException: [nu.xom.Comment: wsilk_end] child already has a parent.
+	at nu.xom.Element.insertionAllowed(Unknown Source)
+	at nu.xom.ParentNode._insertChild(Unknown Source)
+	at nu.xom.ParentNode.insertChild(Unknown Source)
+	at nu.xom.ParentNode.appendChild(Unknown Source)
+	at com.wuba.wsilk.maven.PomUpdate.save(PomUpdate.java:113)
+	at com.wuba.wsilk.maven.PomUpdate.update(PomUpdate.java:53)
+	at com.wuba.wsilk.maven.AbstractProcessorMojo.updatePom(AbstractProcessorMojo.java:391)
+	at com.wuba.wsilk.maven.AbstractProcessorMojo.execute(AbstractProcessorMojo.java:365)
+	at org.apache.maven.plugin.DefaultBuildPluginManager.executeMojo(DefaultBuildPluginManager.java:137)
+	at org.apache.maven.lifecycle.internal.MojoExecutor.execute(MojoExecutor.java:210)
+	at org.apache.maven.lifecycle.internal.MojoExecutor.execute(MojoExecutor.java:156)
+	at org.apache.maven.lifecycle.internal.MojoExecutor.execute(MojoExecutor.java:148)
+	at org.apache.maven.lifecycle.internal.LifecycleModuleBuilder.buildProject(LifecycleModuleBuilder.java:117)
+	at org.apache.maven.lifecycle.internal.LifecycleModuleBuilder.buildProject(LifecycleModuleBuilder.java:81)
+	at org.apache.maven.lifecycle.internal.builder.singlethreaded.SingleThreadedBuilder.build(SingleThreadedBuilder.java:56)
+	at org.apache.maven.lifecycle.internal.LifecycleStarter.execute(LifecycleStarter.java:128)
+	at org.apache.maven.DefaultMaven.doExecute(DefaultMaven.java:305)
+	at org.apache.maven.DefaultMaven.doExecute(DefaultMaven.java:192)
+	at org.apache.maven.DefaultMaven.execute(DefaultMaven.java:105)
+	at org.apache.maven.cli.MavenCli.execute(MavenCli.java:972)
+	at org.apache.maven.cli.MavenCli.doMain(MavenCli.java:293)
+	at org.apache.maven.cli.MavenCli.main(MavenCli.java:196)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.codehaus.plexus.classworlds.launcher.Launcher.launchEnhanced(Launcher.java:282)
+	at org.codehaus.plexus.classworlds.launcher.Launcher.launch(Launcher.java:225)
+	at org.codehaus.plexus.classworlds.launcher.Launcher.mainWithExitCode(Launcher.java:406)
+	at org.codehaus.plexus.classworlds.launcher.Launcher.main(Launcher.java:347)
+
+start
+Using build context: org.eclipse.m2e.core.internal.embedder.EclipseBuildContext@64db2049
+getSourceDirectory: /Users/mindashuang/git/wsilk-sample/src/main/java
+incremental is true
+incremental is true
+hasDelta is false
+Code generation is skipped in build because code was not modified.
+start
+Using build context: org.sonatype.plexus.build.incremental.DefaultBuildContext@71652c98
+getSourceDirectory: /Users/mindashuang/git/wsilk-sample/src/main/java
+incremental is true
+incremental is false
+hasDelta is true
+compiler source
+execute error
+nu.xom.MultipleParentException: [nu.xom.Comment: wsilk_end] child already has a parent.
+	at nu.xom.Element.insertionAllowed(Unknown Source)
+	at nu.xom.ParentNode._insertChild(Unknown Source)
+	at nu.xom.ParentNode.insertChild(Unknown Source)
+	at nu.xom.ParentNode.appendChild(Unknown Source)
+	at com.wuba.wsilk.maven.PomUpdate.save(PomUpdate.java:113)
+	at com.wuba.wsilk.maven.PomUpdate.update(PomUpdate.java:53)
+	at com.wuba.wsilk.maven.AbstractProcessorMojo.updatePom(AbstractProcessorMojo.java:391)
+	at com.wuba.wsilk.maven.AbstractProcessorMojo.execute(AbstractProcessorMojo.java:365)
+	at org.apache.maven.plugin.DefaultBuildPluginManager.executeMojo(DefaultBuildPluginManager.java:137)
+	at org.apache.maven.lifecycle.internal.MojoExecutor.execute(MojoExecutor.java:210)
+	at org.apache.maven.lifecycle.internal.MojoExecutor.execute(MojoExecutor.java:156)
+	at org.apache.maven.lifecycle.internal.MojoExecutor.execute(MojoExecutor.java:148)
+	at org.apache.maven.lifecycle.internal.LifecycleModuleBuilder.buildProject(LifecycleModuleBuilder.java:117)
+	at org.apache.maven.lifecycle.internal.LifecycleModuleBuilder.buildProject(LifecycleModuleBuilder.java:81)
+	at org.apache.maven.lifecycle.internal.builder.singlethreaded.SingleThreadedBuilder.build(SingleThreadedBuilder.java:56)
+	at org.apache.maven.lifecycle.internal.LifecycleStarter.execute(LifecycleStarter.java:128)
+	at org.apache.maven.DefaultMaven.doExecute(DefaultMaven.java:305)
+	at org.apache.maven.DefaultMaven.doExecute(DefaultMaven.java:192)
+	at org.apache.maven.DefaultMaven.execute(DefaultMaven.java:105)
+	at org.apache.maven.cli.MavenCli.execute(MavenCli.java:972)
+	at org.apache.maven.cli.MavenCli.doMain(MavenCli.java:293)
+	at org.apache.maven.cli.MavenCli.main(MavenCli.java:196)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.codehaus.plexus.classworlds.launcher.Launcher.launchEnhanced(Launcher.java:282)
+	at org.codehaus.plexus.classworlds.launcher.Launcher.launch(Launcher.java:225)
+	at org.codehaus.plexus.classworlds.launcher.Launcher.mainWithExitCode(Launcher.java:406)
+	at org.codehaus.plexus.classworlds.launcher.Launcher.main(Launcher.java:347)
+
+start
+Using build context: org.eclipse.m2e.core.internal.embedder.EclipseBuildContext@30464f55
+getSourceDirectory: /Users/mindashuang/git/wsilk-sample/src/main/java
+incremental is true
+incremental is true
+hasDelta is false
+Code generation is skipped in build because code was not modified.
+start
+Using build context: org.sonatype.plexus.build.incremental.DefaultBuildContext@71652c98
+getSourceDirectory: /Users/mindashuang/git/wsilk-sample/src/main/java
+incremental is true
+incremental is false
+hasDelta is true
+compiler source
+execute error
+nu.xom.MultipleParentException: [nu.xom.Comment: wsilk_end] child already has a parent.
+	at nu.xom.Element.insertionAllowed(Unknown Source)
+	at nu.xom.ParentNode._insertChild(Unknown Source)
+	at nu.xom.ParentNode.insertChild(Unknown Source)
+	at nu.xom.ParentNode.appendChild(Unknown Source)
+	at com.wuba.wsilk.maven.PomUpdate.save(PomUpdate.java:113)
+	at com.wuba.wsilk.maven.PomUpdate.update(PomUpdate.java:53)
+	at com.wuba.wsilk.maven.AbstractProcessorMojo.updatePom(AbstractProcessorMojo.java:391)
+	at com.wuba.wsilk.maven.AbstractProcessorMojo.execute(AbstractProcessorMojo.java:365)
+	at org.apache.maven.plugin.DefaultBuildPluginManager.executeMojo(DefaultBuildPluginManager.java:137)
+	at org.apache.maven.lifecycle.internal.MojoExecutor.execute(MojoExecutor.java:210)
+	at org.apache.maven.lifecycle.internal.MojoExecutor.execute(MojoExecutor.java:156)
+	at org.apache.maven.lifecycle.internal.MojoExecutor.execute(MojoExecutor.java:148)
+	at org.apache.maven.lifecycle.internal.LifecycleModuleBuilder.buildProject(LifecycleModuleBuilder.java:117)
+	at org.apache.maven.lifecycle.internal.LifecycleModuleBuilder.buildProject(LifecycleModuleBuilder.java:81)
+	at org.apache.maven.lifecycle.internal.builder.singlethreaded.SingleThreadedBuilder.build(SingleThreadedBuilder.java:56)
+	at org.apache.maven.lifecycle.internal.LifecycleStarter.execute(LifecycleStarter.java:128)
+	at org.apache.maven.DefaultMaven.doExecute(DefaultMaven.java:305)
+	at org.apache.maven.DefaultMaven.doExecute(DefaultMaven.java:192)
+	at org.apache.maven.DefaultMaven.execute(DefaultMaven.java:105)
+	at org.apache.maven.cli.MavenCli.execute(MavenCli.java:972)
+	at org.apache.maven.cli.MavenCli.doMain(MavenCli.java:293)
+	at org.apache.maven.cli.MavenCli.main(MavenCli.java:196)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.codehaus.plexus.classworlds.launcher.Launcher.launchEnhanced(Launcher.java:282)
+	at org.codehaus.plexus.classworlds.launcher.Launcher.launch(Launcher.java:225)
+	at org.codehaus.plexus.classworlds.launcher.Launcher.mainWithExitCode(Launcher.java:406)
+	at org.codehaus.plexus.classworlds.launcher.Launcher.main(Launcher.java:347)
+
+start
+Using build context: org.eclipse.m2e.core.internal.embedder.EclipseBuildContext@10febd19
+getSourceDirectory: /Users/mindashuang/git/wsilk-sample/src/main/java
+incremental is true
+incremental is true
+hasDelta is false
+Code generation is skipped in build because code was not modified.
+start
+Using build context: org.sonatype.plexus.build.incremental.DefaultBuildContext@71652c98
+getSourceDirectory: /Users/mindashuang/git/wsilk-sample/src/main/java
+incremental is true
+incremental is false
+hasDelta is true
+compiler source
+generatate over
+start
+Using build context: org.eclipse.m2e.core.internal.embedder.EclipseBuildContext@210185cd
+getSourceDirectory: /Users/mindashuang/git/wsilk-sample/src/main/java
+incremental is true
+incremental is true
+hasDelta is false
+Code generation is skipped in build because code was not modified.
+start
+Using build context: org.eclipse.m2e.core.internal.embedder.EclipseBuildContext@117733d2
+getSourceDirectory: /Users/mindashuang/git/wsilk-sample/src/main/java
+incremental is true
+incremental is true
+hasDelta is false
+Code generation is skipped in build because code was not modified.
+start
+Using build context: org.sonatype.plexus.build.incremental.DefaultBuildContext@71652c98
+getSourceDirectory: /Users/mindashuang/git/wsilk-sample/src/main/java
+incremental is true
+incremental is false
+hasDelta is true
+compiler source
+generatate over
+start
+Using build context: org.eclipse.m2e.core.internal.embedder.EclipseBuildContext@1c921248
+getSourceDirectory: /Users/mindashuang/git/wsilk-sample/src/main/java
+incremental is true
+incremental is true
+hasDelta is false
+Code generation is skipped in build because code was not modified.
+start
+Using build context: org.eclipse.m2e.core.internal.embedder.EclipseBuildContext@446aad68
+getSourceDirectory: /Users/mindashuang/git/wsilk-sample/src/main/java
+incremental is true
+incremental is true
+hasDelta is false
+Code generation is skipped in build because code was not modified.
+start
+Using build context: org.eclipse.m2e.core.internal.embedder.EclipseBuildContext@217b2560
+getSourceDirectory: /Users/mindashuang/git/wsilk-sample/src/main/java
+incremental is true
+incremental is true
+hasDelta is false
+Code generation is skipped in build because code was not modified.
+start
+Using build context: org.eclipse.m2e.core.internal.embedder.EclipseBuildContext@3832fc91
+getSourceDirectory: /Users/mindashuang/git/wsilk-sample/src/main/java
+incremental is true
+incremental is true
+hasDelta is false
+Code generation is skipped in build because code was not modified.
+start
+Using build context: org.eclipse.m2e.core.internal.embedder.EclipseBuildContext@47d3fd94
+getSourceDirectory: /Users/mindashuang/git/wsilk-sample/src/main/java
+incremental is true
+incremental is true
+hasDelta is false
+Code generation is skipped in build because code was not modified.
+start
+Using build context: org.sonatype.plexus.build.incremental.DefaultBuildContext@71652c98
+getSourceDirectory: /Users/mindashuang/git/wsilk-sample/src/main/java
+incremental is true
+incremental is false
+hasDelta is true
+compiler source
+execute error
+nu.xom.IllegalNameException: NCNames cannot start with the character a
+	at nu.xom.Verifier.throwIllegalNameException(Unknown Source)
+	at nu.xom.Verifier.checkNCName(Unknown Source)
+	at nu.xom.Element._setLocalName(Unknown Source)
+	at nu.xom.Element.<init>(Unknown Source)
+	at nu.xom.Element.<init>(Unknown Source)
+	at com.wuba.wsilk.maven.PomUpdate.create(PomUpdate.java:137)
+	at com.wuba.wsilk.maven.PomUpdate.save(PomUpdate.java:111)
+	at com.wuba.wsilk.maven.PomUpdate.update(PomUpdate.java:53)
+	at com.wuba.wsilk.maven.AbstractProcessorMojo.updatePom(AbstractProcessorMojo.java:391)
+	at com.wuba.wsilk.maven.AbstractProcessorMojo.execute(AbstractProcessorMojo.java:365)
+	at org.apache.maven.plugin.DefaultBuildPluginManager.executeMojo(DefaultBuildPluginManager.java:137)
+	at org.apache.maven.lifecycle.internal.MojoExecutor.execute(MojoExecutor.java:210)
+	at org.apache.maven.lifecycle.internal.MojoExecutor.execute(MojoExecutor.java:156)
+	at org.apache.maven.lifecycle.internal.MojoExecutor.execute(MojoExecutor.java:148)
+	at org.apache.maven.lifecycle.internal.LifecycleModuleBuilder.buildProject(LifecycleModuleBuilder.java:117)
+	at org.apache.maven.lifecycle.internal.LifecycleModuleBuilder.buildProject(LifecycleModuleBuilder.java:81)
+	at org.apache.maven.lifecycle.internal.builder.singlethreaded.SingleThreadedBuilder.build(SingleThreadedBuilder.java:56)
+	at org.apache.maven.lifecycle.internal.LifecycleStarter.execute(LifecycleStarter.java:128)
+	at org.apache.maven.DefaultMaven.doExecute(DefaultMaven.java:305)
+	at org.apache.maven.DefaultMaven.doExecute(DefaultMaven.java:192)
+	at org.apache.maven.DefaultMaven.execute(DefaultMaven.java:105)
+	at org.apache.maven.cli.MavenCli.execute(MavenCli.java:972)
+	at org.apache.maven.cli.MavenCli.doMain(MavenCli.java:293)
+	at org.apache.maven.cli.MavenCli.main(MavenCli.java:196)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.codehaus.plexus.classworlds.launcher.Launcher.launchEnhanced(Launcher.java:282)
+	at org.codehaus.plexus.classworlds.launcher.Launcher.launch(Launcher.java:225)
+	at org.codehaus.plexus.classworlds.launcher.Launcher.mainWithExitCode(Launcher.java:406)
+	at org.codehaus.plexus.classworlds.launcher.Launcher.main(Launcher.java:347)
+
+start
+Using build context: org.eclipse.m2e.core.internal.embedder.EclipseBuildContext@27a32314
+getSourceDirectory: /Users/mindashuang/git/wsilk-sample/src/main/java
+incremental is true
+incremental is true
+hasDelta is false
+Code generation is skipped in build because code was not modified.
+start
+Using build context: org.sonatype.plexus.build.incremental.DefaultBuildContext@71652c98
+getSourceDirectory: /Users/mindashuang/git/wsilk-sample/src/main/java
+incremental is true
+incremental is false
+hasDelta is true
+compiler source
+execute error
+nu.xom.IllegalNameException: NCNames cannot start with the character a
+	at nu.xom.Verifier.throwIllegalNameException(Unknown Source)
+	at nu.xom.Verifier.checkNCName(Unknown Source)
+	at nu.xom.Element._setLocalName(Unknown Source)
+	at nu.xom.Element.<init>(Unknown Source)
+	at nu.xom.Element.<init>(Unknown Source)
+	at com.wuba.wsilk.maven.PomUpdate.create(PomUpdate.java:137)
+	at com.wuba.wsilk.maven.PomUpdate.save(PomUpdate.java:111)
+	at com.wuba.wsilk.maven.PomUpdate.update(PomUpdate.java:53)
+	at com.wuba.wsilk.maven.AbstractProcessorMojo.updatePom(AbstractProcessorMojo.java:391)
+	at com.wuba.wsilk.maven.AbstractProcessorMojo.execute(AbstractProcessorMojo.java:365)
+	at org.apache.maven.plugin.DefaultBuildPluginManager.executeMojo(DefaultBuildPluginManager.java:137)
+	at org.apache.maven.lifecycle.internal.MojoExecutor.execute(MojoExecutor.java:210)
+	at org.apache.maven.lifecycle.internal.MojoExecutor.execute(MojoExecutor.java:156)
+	at org.apache.maven.lifecycle.internal.MojoExecutor.execute(MojoExecutor.java:148)
+	at org.apache.maven.lifecycle.internal.LifecycleModuleBuilder.buildProject(LifecycleModuleBuilder.java:117)
+	at org.apache.maven.lifecycle.internal.LifecycleModuleBuilder.buildProject(LifecycleModuleBuilder.java:81)
+	at org.apache.maven.lifecycle.internal.builder.singlethreaded.SingleThreadedBuilder.build(SingleThreadedBuilder.java:56)
+	at org.apache.maven.lifecycle.internal.LifecycleStarter.execute(LifecycleStarter.java:128)
+	at org.apache.maven.DefaultMaven.doExecute(DefaultMaven.java:305)
+	at org.apache.maven.DefaultMaven.doExecute(DefaultMaven.java:192)
+	at org.apache.maven.DefaultMaven.execute(DefaultMaven.java:105)
+	at org.apache.maven.cli.MavenCli.execute(MavenCli.java:972)
+	at org.apache.maven.cli.MavenCli.doMain(MavenCli.java:293)
+	at org.apache.maven.cli.MavenCli.main(MavenCli.java:196)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.codehaus.plexus.classworlds.launcher.Launcher.launchEnhanced(Launcher.java:282)
+	at org.codehaus.plexus.classworlds.launcher.Launcher.launch(Launcher.java:225)
+	at org.codehaus.plexus.classworlds.launcher.Launcher.mainWithExitCode(Launcher.java:406)
+	at org.codehaus.plexus.classworlds.launcher.Launcher.main(Launcher.java:347)
+
+start
+Using build context: org.eclipse.m2e.core.internal.embedder.EclipseBuildContext@34c43881
+getSourceDirectory: /Users/mindashuang/git/wsilk-sample/src/main/java
+incremental is true
+incremental is true
+hasDelta is false
+Code generation is skipped in build because code was not modified.
+start
+Using build context: org.sonatype.plexus.build.incremental.DefaultBuildContext@71652c98
+getSourceDirectory: /Users/mindashuang/git/wsilk-sample/src/main/java
+incremental is true
+incremental is false
+hasDelta is true
+compiler source
+generatate over
+start
+Using build context: org.eclipse.m2e.core.internal.embedder.EclipseBuildContext@5bb50646
+getSourceDirectory: /Users/mindashuang/git/wsilk-sample/src/main/java
+incremental is true
+incremental is true
+hasDelta is false
+Code generation is skipped in build because code was not modified.
+start
+Using build context: org.eclipse.m2e.core.internal.embedder.EclipseBuildContext@4917daf8
+getSourceDirectory: /Users/mindashuang/git/wsilk-sample/src/main/java
+incremental is true
+incremental is true
+hasDelta is false
+Code generation is skipped in build because code was not modified.
+start
+Using build context: org.sonatype.plexus.build.incremental.DefaultBuildContext@71652c98
+getSourceDirectory: /Users/mindashuang/git/wsilk-sample/src/main/java
+incremental is true
+incremental is false
+hasDelta is true
+compiler source
+generatate over
+start
+Using build context: org.eclipse.m2e.core.internal.embedder.EclipseBuildContext@3febcc43
+getSourceDirectory: /Users/mindashuang/git/wsilk-sample/src/main/java
+incremental is true
+incremental is true
+hasDelta is false
+Code generation is skipped in build because code was not modified.
+start
+Using build context: org.eclipse.m2e.core.internal.embedder.EclipseBuildContext@83d2267
+getSourceDirectory: /Users/mindashuang/git/wsilk-sample/src/main/java
+incremental is true
+incremental is true
+hasDelta is false
+Code generation is skipped in build because code was not modified.
+start
+Using build context: org.eclipse.m2e.core.internal.embedder.EclipseBuildContext@77bdfe2f
+getSourceDirectory: /Users/mindashuang/git/wsilk-sample/src/main/java
+incremental is true
+incremental is true
+hasDelta is false
+Code generation is skipped in build because code was not modified.
+start
+Using build context: org.sonatype.plexus.build.incremental.DefaultBuildContext@214894fc
+getSourceDirectory: /Users/mindashuang/git/wsilk-sample/src/main/java
+incremental is true
+incremental is false
+hasDelta is true
+compiler source
+generatate over
+start
+Using build context: org.eclipse.m2e.core.internal.embedder.EclipseBuildContext@15ff3ce3
+getSourceDirectory: /Users/mindashuang/git/wsilk-sample/src/main/java
+incremental is true
+incremental is true
+hasDelta is false
+Code generation is skipped in build because code was not modified.
+start
+Using build context: org.eclipse.m2e.core.internal.embedder.EclipseBuildContext@1e8f0602
+getSourceDirectory: /Users/mindashuang/git/wsilk-sample/src/main/java
+incremental is true
+incremental is true
+hasDelta is false
+Code generation is skipped in build because code was not modified.
+start
+Using build context: org.sonatype.plexus.build.incremental.DefaultBuildContext@214894fc
+getSourceDirectory: /Users/mindashuang/git/wsilk-sample/src/main/java
+incremental is true
+incremental is false
+hasDelta is true
+compiler source
+generatate over
+start
+Using build context: org.eclipse.m2e.core.internal.embedder.EclipseBuildContext@11db7d81
+getSourceDirectory: /Users/mindashuang/git/wsilk-sample/src/main/java
+incremental is true
+incremental is true
+hasDelta is false
+Code generation is skipped in build because code was not modified.
+start
+Using build context: org.eclipse.m2e.core.internal.embedder.EclipseBuildContext@255cccd8
+getSourceDirectory: /Users/mindashuang/git/wsilk-sample/src/main/java
+incremental is true
+incremental is true
+hasDelta is false
+Code generation is skipped in build because code was not modified.
+start
+Using build context: org.eclipse.m2e.core.internal.embedder.EclipseBuildContext@6d232de2
+getSourceDirectory: /Users/mindashuang/git/wsilk-sample/src/main/java
+incremental is true
+incremental is true
+hasDelta is false
+Code generation is skipped in build because code was not modified.
+start
+Using build context: org.sonatype.plexus.build.incremental.DefaultBuildContext@214894fc
+getSourceDirectory: /Users/mindashuang/git/wsilk-sample/src/main/java
+incremental is true
+incremental is false
+hasDelta is true
+compiler source
+generatate over
+start
+Using build context: org.eclipse.m2e.core.internal.embedder.EclipseBuildContext@2eddf9a9
+getSourceDirectory: /Users/mindashuang/git/wsilk-sample/src/main/java
+incremental is true
+incremental is true
+hasDelta is false
+Code generation is skipped in build because code was not modified.
+start
+Using build context: org.sonatype.plexus.build.incremental.DefaultBuildContext@214894fc
+getSourceDirectory: /Users/mindashuang/git/wsilk-sample/src/main/java
+incremental is true
+incremental is false
+hasDelta is true
+compiler source
+generatate over
+start
+Using build context: org.eclipse.m2e.core.internal.embedder.EclipseBuildContext@7a329056
+getSourceDirectory: /Users/mindashuang/git/wsilk-sample/src/main/java
+incremental is true
+incremental is true
+hasDelta is false
+Code generation is skipped in build because code was not modified.
+start
+Using build context: org.eclipse.m2e.core.internal.embedder.EclipseBuildContext@7ba57185
+getSourceDirectory: /Users/mindashuang/git/wsilk-sample/src/main/java
+incremental is true
+incremental is true
+hasDelta is false
+Code generation is skipped in build because code was not modified.
+start
+Using build context: org.eclipse.m2e.core.internal.embedder.EclipseBuildContext@26c30ada
+getSourceDirectory: /Users/mindashuang/git/wsilk-sample/src/main/java
+incremental is true
+incremental is true
+hasDelta is false
+Code generation is skipped in build because code was not modified.
+start
+Using build context: org.sonatype.plexus.build.incremental.DefaultBuildContext@214894fc
+getSourceDirectory: /Users/mindashuang/git/wsilk-sample/src/main/java
+incremental is true
+incremental is false
+hasDelta is true
+compiler source
+generatate over
+start
+Using build context: org.eclipse.m2e.core.internal.embedder.EclipseBuildContext@68c4ca22
+getSourceDirectory: /Users/mindashuang/git/wsilk-sample/src/main/java
+incremental is true
+incremental is true
+hasDelta is false
+Code generation is skipped in build because code was not modified.
+start
+Using build context: org.eclipse.m2e.core.internal.embedder.EclipseBuildContext@63436a46
+getSourceDirectory: /Users/mindashuang/git/wsilk-sample/src/main/java
+incremental is true
+incremental is true
+hasDelta is false
+Code generation is skipped in build because code was not modified.
+start
+Using build context: org.eclipse.m2e.core.internal.embedder.EclipseBuildContext@2c492a80
+getSourceDirectory: /Users/mindashuang/git/wsilk-sample/src/main/java
+incremental is true
+incremental is true
+hasDelta is false
+Code generation is skipped in build because code was not modified.
+start
+Using build context: org.sonatype.plexus.build.incremental.DefaultBuildContext@214894fc
+getSourceDirectory: /Users/mindashuang/git/wsilk-sample/src/main/java
+incremental is true
+incremental is false
+hasDelta is true
+compiler source
+generatate over
+start
+Using build context: org.eclipse.m2e.core.internal.embedder.EclipseBuildContext@14e61190
+getSourceDirectory: /Users/mindashuang/git/wsilk-sample/src/main/java
+incremental is true
+incremental is true
+hasDelta is false
+Code generation is skipped in build because code was not modified.
+start
+Using build context: org.eclipse.m2e.core.internal.embedder.EclipseBuildContext@150a83d0
+getSourceDirectory: /Users/mindashuang/git/wsilk-sample/src/main/java
+incremental is true
+incremental is true
+hasDelta is false
+Code generation is skipped in build because code was not modified.
+start
+Using build context: org.eclipse.m2e.core.internal.embedder.EclipseBuildContext@18d15959
+getSourceDirectory: /Users/mindashuang/git/wsilk-sample/src/main/java
+incremental is true
+incremental is true
+hasDelta is false
+Code generation is skipped in build because code was not modified.
+start
+Using build context: org.eclipse.m2e.core.internal.embedder.EclipseBuildContext@7ae007e6
+getSourceDirectory: /Users/mindashuang/git/wsilk-sample/src/main/java
+incremental is true
+incremental is true
+hasDelta is false
+Code generation is skipped in build because code was not modified.
+start
+Using build context: org.eclipse.m2e.core.internal.embedder.EclipseBuildContext@42a8c69c
+getSourceDirectory: /Users/mindashuang/git/wsilk-sample/src/main/java
+incremental is true
+incremental is false
+hasDelta is true
+compiler source
+generatate over
+start
+Using build context: org.sonatype.plexus.build.incremental.DefaultBuildContext@214894fc
+getSourceDirectory: /Users/mindashuang/git/wsilk-sample/src/main/java
+incremental is true
+incremental is false
+hasDelta is true
+compiler source
+generatate over
+start
+Using build context: org.eclipse.m2e.core.internal.embedder.EclipseBuildContext@126242e3
+getSourceDirectory: /Users/mindashuang/git/wsilk-sample/src/main/java
+incremental is true
+incremental is true
+hasDelta is false
+Code generation is skipped in build because code was not modified.
+start
+Using build context: org.sonatype.plexus.build.incremental.DefaultBuildContext@214894fc
+getSourceDirectory: /Users/mindashuang/git/wsilk-sample/src/main/java
+incremental is true
+incremental is false
+hasDelta is true
+compiler source
+generatate over
+start
+Using build context: org.eclipse.m2e.core.internal.embedder.EclipseBuildContext@780c6a87
+getSourceDirectory: /Users/mindashuang/git/wsilk-sample/src/main/java
+incremental is true
+incremental is true
+hasDelta is false
+Code generation is skipped in build because code was not modified.
+start
+Using build context: org.sonatype.plexus.build.incremental.DefaultBuildContext@214894fc
+getSourceDirectory: /Users/mindashuang/git/wsilk-sample/src/main/java
+incremental is true
+incremental is false
+hasDelta is true
+compiler source
+generatate over
+start
+Using build context: org.eclipse.m2e.core.internal.embedder.EclipseBuildContext@71faaacf
+getSourceDirectory: /Users/mindashuang/git/wsilk-sample/src/main/java
+incremental is true
+incremental is true
+hasDelta is false
+Code generation is skipped in build because code was not modified.
+start
+Using build context: org.eclipse.m2e.core.internal.embedder.EclipseBuildContext@725db594
+getSourceDirectory: /Users/mindashuang/git/wsilk-sample/src/main/java
+incremental is true
+incremental is true
+hasDelta is false
+Code generation is skipped in build because code was not modified.
+start
+Using build context: org.sonatype.plexus.build.incremental.DefaultBuildContext@618ad2aa
+getSourceDirectory: /Users/mindashuang/git/wsilk-sample/src/main/java
+incremental is true
+incremental is false
+hasDelta is true
+compiler source
+generatate over
+start
+Using build context: org.eclipse.m2e.core.internal.embedder.EclipseBuildContext@4a8bb449
+getSourceDirectory: /Users/mindashuang/git/wsilk-sample/src/main/java
+incremental is true
+incremental is true
+hasDelta is false
+Code generation is skipped in build because code was not modified.
+start
+Using build context: org.eclipse.m2e.core.internal.embedder.EclipseBuildContext@6cb6fa52
+getSourceDirectory: /Users/mindashuang/git/wsilk-sample/src/main/java
+incremental is true
+incremental is true
+hasDelta is false
+Code generation is skipped in build because code was not modified.
+start
+Using build context: org.sonatype.plexus.build.incremental.DefaultBuildContext@17a703f5
+getSourceDirectory: /Users/mindashuang/git/wsilk-sample/src/main/java
+incremental is true
+incremental is false
+hasDelta is true
+compiler source
+start
+Using build context: org.sonatype.plexus.build.incremental.DefaultBuildContext@5ff2b8ca
+getSourceDirectory: /Users/mindashuang/git/wsilk-sample/src/main/java
+incremental is true
+incremental is false
+hasDelta is true
+compiler source
+start
+Using build context: org.sonatype.plexus.build.incremental.DefaultBuildContext@5ff2b8ca
+getSourceDirectory: /Users/mindashuang/git/wsilk-sample/src/main/java
+incremental is true
+incremental is false
+hasDelta is true
+compiler source
+generatate over
+start
+Using build context: org.eclipse.m2e.core.internal.embedder.EclipseBuildContext@175d476c
+getSourceDirectory: /Users/mindashuang/git/wsilk-sample/src/main/java
+incremental is true
+incremental is true
+hasDelta is false
+Code generation is skipped in build because code was not modified.
+start
+Using build context: org.eclipse.m2e.core.internal.embedder.EclipseBuildContext@4c6799f5
+getSourceDirectory: /Users/mindashuang/git/wsilk-sample/src/main/java
+incremental is true
+incremental is true
+hasDelta is false
+Code generation is skipped in build because code was not modified.
+start
+Using build context: org.eclipse.m2e.core.internal.embedder.EclipseBuildContext@38d257cf
+getSourceDirectory: /Users/mindashuang/git/wsilk-sample/src/main/java
+incremental is true
+incremental is true
+hasDelta is false
+Code generation is skipped in build because code was not modified.
+start
+Using build context: org.sonatype.plexus.build.incremental.DefaultBuildContext@17a703f5
+getSourceDirectory: /Users/mindashuang/git/wsilk-sample/src/main/java
+incremental is true
+incremental is false
+hasDelta is true
+compiler source
+generatate over
+start
+Using build context: org.eclipse.m2e.core.internal.embedder.EclipseBuildContext@44f8ad6c
+getSourceDirectory: /Users/mindashuang/git/wsilk-sample/src/main/java
+incremental is true
+incremental is true
+hasDelta is false
+Code generation is skipped in build because code was not modified.
+start
+Using build context: org.eclipse.m2e.core.internal.embedder.EclipseBuildContext@6e18326b
+getSourceDirectory: /Users/mindashuang/git/wsilk-sample/src/main/java
+incremental is true
+incremental is true
+hasDelta is false
+Code generation is skipped in build because code was not modified.
+start
+Using build context: org.sonatype.plexus.build.incremental.DefaultBuildContext@1aa6e3c0
+getSourceDirectory: /Users/mindashuang/git/wsilk-sample/src/main/java
+incremental is true
+incremental is false
+hasDelta is true
+compiler source
+generatate over
+start
+Using build context: org.eclipse.m2e.core.internal.embedder.EclipseBuildContext@48e716da
+getSourceDirectory: /Users/mindashuang/git/wsilk-sample/src/main/java
+incremental is true
+incremental is true
+hasDelta is false
+Code generation is skipped in build because code was not modified.
+start
+Using build context: org.eclipse.m2e.core.internal.embedder.EclipseBuildContext@65603696
+getSourceDirectory: /Users/mindashuang/git/wsilk-sample/src/main/java
+incremental is true
+incremental is true
+hasDelta is false
+Code generation is skipped in build because code was not modified.
+start
+Using build context: org.sonatype.plexus.build.incremental.DefaultBuildContext@17a703f5
+getSourceDirectory: /Users/mindashuang/git/wsilk-sample/src/main/java
+incremental is true
+incremental is false
+hasDelta is true
+compiler source
+start
+Using build context: org.sonatype.plexus.build.incremental.DefaultBuildContext@214894fc
+getSourceDirectory: /Users/mindashuang/git/wsilk-sample/src/main/java
+incremental is true
+incremental is false
+hasDelta is true
+compiler source
+generatate over
+start
+Using build context: org.eclipse.m2e.core.internal.embedder.EclipseBuildContext@395a8eee
+getSourceDirectory: /Users/mindashuang/git/wsilk-sample/src/main/java
+incremental is true
+incremental is true
+hasDelta is false
+Code generation is skipped in build because code was not modified.
+start
+Using build context: org.eclipse.m2e.core.internal.embedder.EclipseBuildContext@4e5669f9
+getSourceDirectory: /Users/mindashuang/git/wsilk-sample/src/main/java
+incremental is true
+incremental is true
+hasDelta is false
+Code generation is skipped in build because code was not modified.
+start
+Using build context: org.eclipse.m2e.core.internal.embedder.EclipseBuildContext@5425f58a
+getSourceDirectory: /Users/mindashuang/git/wsilk-sample/src/main/java
+incremental is true
+incremental is true
+hasDelta is false
+Code generation is skipped in build because code was not modified.
+start
+Using build context: org.eclipse.m2e.core.internal.embedder.EclipseBuildContext@81af8ed
+getSourceDirectory: /Users/mindashuang/git/wsilk-sample/src/main/java
+incremental is true
+incremental is true
+hasDelta is false
+Code generation is skipped in build because code was not modified.
+start
+Using build context: org.sonatype.plexus.build.incremental.DefaultBuildContext@214894fc
+getSourceDirectory: /Users/mindashuang/git/wsilk-sample/src/main/java
+incremental is true
+incremental is false
+hasDelta is true
+compiler source
+generatate over
+start
+Using build context: org.eclipse.m2e.core.internal.embedder.EclipseBuildContext@7ba0fb2f
+getSourceDirectory: /Users/mindashuang/git/wsilk-sample/src/main/java
+incremental is true
+incremental is true
+hasDelta is false
+Code generation is skipped in build because code was not modified.
+start
+Using build context: org.eclipse.m2e.core.internal.embedder.EclipseBuildContext@628c0ccd
+getSourceDirectory: /Users/mindashuang/git/wsilk-sample/src/main/java
+incremental is true
+incremental is true
+hasDelta is false
+Code generation is skipped in build because code was not modified.
+start
+Using build context: org.sonatype.plexus.build.incremental.DefaultBuildContext@17a703f5
+getSourceDirectory: /Users/mindashuang/git/wsilk-sample/src/main/java
+incremental is true
+incremental is false
+hasDelta is true
+compiler source
+start
+Using build context: org.sonatype.plexus.build.incremental.DefaultBuildContext@618ad2aa
+getSourceDirectory: /Users/mindashuang/git/wsilk-sample/src/main/java
+incremental is true
+incremental is false
+hasDelta is true
+compiler source
+generatate over
+start
+Using build context: org.eclipse.m2e.core.internal.embedder.EclipseBuildContext@35f91279
+getSourceDirectory: /Users/mindashuang/git/wsilk-sample/src/main/java
+incremental is true
+incremental is true
+hasDelta is false
+Code generation is skipped in build because code was not modified.
+start
+Using build context: org.sonatype.plexus.build.incremental.DefaultBuildContext@71652c98
+getSourceDirectory: /Users/mindashuang/git/wsilk-sample/src/main/java
+incremental is true
+incremental is false
+hasDelta is true
+compiler source
+generatate over
+start
+Using build context: org.eclipse.m2e.core.internal.embedder.EclipseBuildContext@3a86ae70
+getSourceDirectory: /Users/mindashuang/git/wsilk-sample/src/main/java
+incremental is true
+incremental is true
+hasDelta is false
+Code generation is skipped in build because code was not modified.
+start
+Using build context: org.eclipse.m2e.core.internal.embedder.EclipseBuildContext@11bcf051
+getSourceDirectory: /Users/mindashuang/git/wsilk-sample/src/main/java
+incremental is true
+incremental is true
+hasDelta is false
+Code generation is skipped in build because code was not modified.
+start
+Using build context: org.sonatype.plexus.build.incremental.DefaultBuildContext@6e5bfdfc
+getSourceDirectory: /Users/mindashuang/git/wsilk-sample/src/main/java
+incremental is true
+incremental is false
+hasDelta is true
+compiler source
+generatate over
+start
+Using build context: org.eclipse.m2e.core.internal.embedder.EclipseBuildContext@3a0a48f8
+getSourceDirectory: /Users/mindashuang/git/wsilk-sample/src/main/java
+incremental is true
+incremental is true
+hasDelta is false
+Code generation is skipped in build because code was not modified.
+start
+Using build context: org.eclipse.m2e.core.internal.embedder.EclipseBuildContext@4dad50d2
+getSourceDirectory: /Users/mindashuang/git/wsilk-sample/src/main/java
+incremental is true
+incremental is true
+hasDelta is false
+Code generation is skipped in build because code was not modified.
+start
+Using build context: org.eclipse.m2e.core.internal.embedder.EclipseBuildContext@5dc15b0d
+getSourceDirectory: /Users/mindashuang/git/wsilk-sample/src/main/java
+incremental is true
+incremental is true
+hasDelta is false
+Code generation is skipped in build because code was not modified.
+start
+Using build context: org.sonatype.plexus.build.incremental.DefaultBuildContext@71652c98
+getSourceDirectory: /Users/mindashuang/git/wsilk-sample/src/main/java
+incremental is true
+incremental is false
+hasDelta is true
+compiler source
+generatate over
+start
+Using build context: org.eclipse.m2e.core.internal.embedder.EclipseBuildContext@5a8378c6
+getSourceDirectory: /Users/mindashuang/git/wsilk-sample/src/main/java
+incremental is true
+incremental is true
+hasDelta is false
+Code generation is skipped in build because code was not modified.
+start
+Using build context: org.sonatype.plexus.build.incremental.DefaultBuildContext@71652c98
+getSourceDirectory: /Users/mindashuang/git/wsilk-sample/src/main/java
+incremental is true
+incremental is false
+hasDelta is true
+compiler source
+generatate over
+start
+Using build context: org.eclipse.m2e.core.internal.embedder.EclipseBuildContext@2798028e
+getSourceDirectory: /Users/mindashuang/git/wsilk-sample/src/main/java
+incremental is true
+incremental is true
+hasDelta is false
+Code generation is skipped in build because code was not modified.
+start
+Using build context: org.sonatype.plexus.build.incremental.DefaultBuildContext@71652c98
+getSourceDirectory: /Users/mindashuang/git/wsilk-sample/src/main/java
+incremental is true
+incremental is false
+hasDelta is true
+compiler source
+generatate over
+start
+Using build context: org.eclipse.m2e.core.internal.embedder.EclipseBuildContext@efd2fe6
+getSourceDirectory: /Users/mindashuang/git/wsilk-sample/src/main/java
+incremental is true
+incremental is true
+hasDelta is false
+Code generation is skipped in build because code was not modified.
+start
+Using build context: org.eclipse.m2e.core.internal.embedder.EclipseBuildContext@3d2fe9cb
+getSourceDirectory: /Users/mindashuang/git/wsilk-sample/src/main/java
+incremental is true
+incremental is true
+hasDelta is false
+Code generation is skipped in build because code was not modified.
+start
+Using build context: org.sonatype.plexus.build.incremental.DefaultBuildContext@214894fc
+getSourceDirectory: /Users/mindashuang/git/wsilk-sample/src/main/java
+incremental is true
+incremental is false
+hasDelta is true
+compiler source
+generatate over
+start
+Using build context: org.eclipse.m2e.core.internal.embedder.EclipseBuildContext@6a7f9081
+getSourceDirectory: /Users/mindashuang/git/wsilk-sample/src/main/java
+incremental is true
+incremental is true
+hasDelta is false
+Code generation is skipped in build because code was not modified.
+start
+Using build context: org.sonatype.plexus.build.incremental.DefaultBuildContext@71652c98
+getSourceDirectory: /Users/mindashuang/git/wsilk-sample/src/main/java
+incremental is true
+incremental is false
+hasDelta is true
+compiler source
+generatate over
+start
+Using build context: org.eclipse.m2e.core.internal.embedder.EclipseBuildContext@21a31c1b
+getSourceDirectory: /Users/mindashuang/git/wsilk-sample/src/main/java
+incremental is true
+incremental is true
+hasDelta is false
+Code generation is skipped in build because code was not modified.
+start
+Using build context: org.eclipse.m2e.core.internal.embedder.EclipseBuildContext@2ec607f3
+getSourceDirectory: /Users/mindashuang/git/wsilk-sample/src/main/java
+incremental is true
+incremental is true
+hasDelta is false
+Code generation is skipped in build because code was not modified.
+start
+Using build context: org.sonatype.plexus.build.incremental.DefaultBuildContext@214894fc
+getSourceDirectory: /Users/mindashuang/git/wsilk-sample/src/main/java
+incremental is true
+incremental is false
+hasDelta is true
+compiler source
+generatate over
+start
+Using build context: org.eclipse.m2e.core.internal.embedder.EclipseBuildContext@2fe7be18
+getSourceDirectory: /Users/mindashuang/git/wsilk-sample/src/main/java
+incremental is true
+incremental is true
+hasDelta is false
+Code generation is skipped in build because code was not modified.
+start
+Using build context: org.sonatype.plexus.build.incremental.DefaultBuildContext@6fd12c5
+getSourceDirectory: /Users/mindashuang/git/wsilk-sample/src/main/java
+incremental is true
+incremental is false
+hasDelta is true
+compiler source
+generatate over
+start
+Using build context: org.eclipse.m2e.core.internal.embedder.EclipseBuildContext@4894ca05
+getSourceDirectory: /Users/mindashuang/git/wsilk-sample/src/main/java
+incremental is true
+incremental is true
+hasDelta is false
+Code generation is skipped in build because code was not modified.
+start
+Using build context: org.sonatype.plexus.build.incremental.DefaultBuildContext@6fd12c5
+getSourceDirectory: /Users/mindashuang/git/wsilk-sample/src/main/java
+incremental is true
+incremental is false
+hasDelta is true
+compiler source
+generatate over
+start
+Using build context: org.eclipse.m2e.core.internal.embedder.EclipseBuildContext@52ca4c81
+getSourceDirectory: /Users/mindashuang/git/wsilk-sample/src/main/java
+incremental is true
+incremental is true
+hasDelta is false
+Code generation is skipped in build because code was not modified.
+start
+Using build context: org.eclipse.m2e.core.internal.embedder.EclipseBuildContext@ff21b54
+getSourceDirectory: /Users/mindashuang/git/wsilk-sample/src/main/java
+incremental is true
+incremental is true
+hasDelta is false
+Code generation is skipped in build because code was not modified.
+start
+Using build context: org.eclipse.m2e.core.internal.embedder.EclipseBuildContext@6f15bd7f
+getSourceDirectory: /Users/mindashuang/git/wsilk-sample/src/main/java
+incremental is true
+incremental is true
+hasDelta is false
+Code generation is skipped in build because code was not modified.
+start
+Using build context: org.eclipse.m2e.core.internal.embedder.EclipseBuildContext@59f2aad6
+getSourceDirectory: /Users/mindashuang/git/wsilk-sample/src/main/java
+incremental is true
+incremental is true
+hasDelta is false
+Code generation is skipped in build because code was not modified.
+start
+Using build context: org.sonatype.plexus.build.incremental.DefaultBuildContext@214894fc
+getSourceDirectory: /Users/mindashuang/git/wsilk-sample/src/main/java
+incremental is true
+incremental is false
+hasDelta is true
+compiler source
+generatate over
+start
+Using build context: org.eclipse.m2e.core.internal.embedder.EclipseBuildContext@72714677
+getSourceDirectory: /Users/mindashuang/git/wsilk-sample/src/main/java
+incremental is true
+incremental is true
+hasDelta is false
+Code generation is skipped in build because code was not modified.
+start
+Using build context: org.sonatype.plexus.build.incremental.DefaultBuildContext@71652c98
+getSourceDirectory: /Users/mindashuang/git/wsilk-sample/src/main/java
+incremental is true
+incremental is false
+hasDelta is true
+compiler source
+generatate over
+start
+Using build context: org.eclipse.m2e.core.internal.embedder.EclipseBuildContext@4a94216
+getSourceDirectory: /Users/mindashuang/git/wsilk-sample/src/main/java
+incremental is true
+incremental is true
+hasDelta is false
+Code generation is skipped in build because code was not modified.
+start
+Using build context: org.sonatype.plexus.build.incremental.DefaultBuildContext@60b85ba1
+getSourceDirectory: /Users/mindashuang/git/wsilk-sample/src/main/java
+incremental is true
+incremental is false
+hasDelta is true
+compiler source
+generatate over
+start
+Using build context: org.eclipse.m2e.core.internal.embedder.EclipseBuildContext@125f753d
+getSourceDirectory: /Users/mindashuang/git/wsilk-sample/src/main/java
+incremental is true
+incremental is true
+hasDelta is false
+Code generation is skipped in build because code was not modified.
+start
+Using build context: org.eclipse.m2e.core.internal.embedder.EclipseBuildContext@4ce9eaef
+getSourceDirectory: /Users/mindashuang/git/wsilk-sample/src/main/java
+incremental is true
+incremental is true
+hasDelta is false
+Code generation is skipped in build because code was not modified.
+start
+Using build context: org.eclipse.m2e.core.internal.embedder.EclipseBuildContext@1ec0c844
+getSourceDirectory: /Users/mindashuang/git/wsilk-sample/src/main/java
+incremental is true
+incremental is true
+hasDelta is false
+Code generation is skipped in build because code was not modified.
+start
+Using build context: org.sonatype.plexus.build.incremental.DefaultBuildContext@214894fc
+getSourceDirectory: /Users/mindashuang/git/wsilk-sample/src/main/java
+incremental is true
+incremental is false
+hasDelta is true
+compiler source
+generatate over
+start
+Using build context: org.eclipse.m2e.core.internal.embedder.EclipseBuildContext@1098aae
+getSourceDirectory: /Users/mindashuang/git/wsilk-sample/src/main/java
+incremental is true
+incremental is true
+hasDelta is false
+Code generation is skipped in build because code was not modified.
+start
+Using build context: org.eclipse.m2e.core.internal.embedder.EclipseBuildContext@62a8030c
+getSourceDirectory: /Users/mindashuang/git/wsilk-sample/src/main/java
+incremental is true
+incremental is true
+hasDelta is false
+Code generation is skipped in build because code was not modified.
+start
+Using build context: org.eclipse.m2e.core.internal.embedder.EclipseBuildContext@471d11c6
+getSourceDirectory: /Users/mindashuang/git/wsilk-sample/src/main/java
+incremental is true
+incremental is true
+hasDelta is false
+Code generation is skipped in build because code was not modified.
+start
+Using build context: org.sonatype.plexus.build.incremental.DefaultBuildContext@214894fc
+getSourceDirectory: /Users/mindashuang/git/wsilk-sample/src/main/java
+incremental is true
+incremental is false
+hasDelta is true
+compiler source
+generatate over
+start
+Using build context: org.eclipse.m2e.core.internal.embedder.EclipseBuildContext@68f174c4
+getSourceDirectory: /Users/mindashuang/git/wsilk-sample/src/main/java
+incremental is true
+incremental is true
+hasDelta is false
+Code generation is skipped in build because code was not modified.
+start
+Using build context: org.eclipse.m2e.core.internal.embedder.EclipseBuildContext@3d08f0a6
+getSourceDirectory: /Users/mindashuang/git/wsilk-sample/src/main/java
+incremental is true
+incremental is true
+hasDelta is false
+Code generation is skipped in build because code was not modified.
+start
+Using build context: org.eclipse.m2e.core.internal.embedder.EclipseBuildContext@1e355a77
+getSourceDirectory: /Users/mindashuang/git/wsilk-sample/src/main/java
+incremental is true
+incremental is true
+hasDelta is false
+Code generation is skipped in build because code was not modified.
+start
+Using build context: org.sonatype.plexus.build.incremental.DefaultBuildContext@214894fc
+getSourceDirectory: /Users/mindashuang/git/wsilk-sample/src/main/java
+incremental is true
+incremental is false
+hasDelta is true
+compiler source
+generatate over
+start
+Using build context: org.eclipse.m2e.core.internal.embedder.EclipseBuildContext@34390056
+getSourceDirectory: /Users/mindashuang/git/wsilk-sample/src/main/java
+incremental is true
+incremental is true
+hasDelta is false
+Code generation is skipped in build because code was not modified.
+start
+Using build context: org.eclipse.m2e.core.internal.embedder.EclipseBuildContext@3ecfb032
+getSourceDirectory: /Users/mindashuang/git/wsilk-sample/src/main/java
+incremental is true
+incremental is true
+hasDelta is false
+Code generation is skipped in build because code was not modified.
+start
+Using build context: org.sonatype.plexus.build.incremental.DefaultBuildContext@71652c98
+getSourceDirectory: /Users/mindashuang/git/wsilk-sample/src/main/java
+incremental is true
+incremental is false
+hasDelta is true
+compiler source
+generatate over
+start
+Using build context: org.eclipse.m2e.core.internal.embedder.EclipseBuildContext@78c77c88
+getSourceDirectory: /Users/mindashuang/git/wsilk-sample/src/main/java
+incremental is true
+incremental is true
+hasDelta is false
+Code generation is skipped in build because code was not modified.
+start
+Using build context: org.sonatype.plexus.build.incremental.DefaultBuildContext@71652c98
+getSourceDirectory: /Users/mindashuang/git/wsilk-sample/src/main/java
+incremental is true
+incremental is false
+hasDelta is true
+compiler source
+generatate over
+start
+Using build context: org.eclipse.m2e.core.internal.embedder.EclipseBuildContext@6cabd041
+getSourceDirectory: /Users/mindashuang/git/wsilk-sample/src/main/java
+incremental is true
+incremental is true
+hasDelta is false
+Code generation is skipped in build because code was not modified.
+start
+Using build context: org.sonatype.plexus.build.incremental.DefaultBuildContext@71652c98
+getSourceDirectory: /Users/mindashuang/git/wsilk-sample/src/main/java
+incremental is true
+incremental is false
+hasDelta is true
+compiler source
+generatate over
+start
+Using build context: org.eclipse.m2e.core.internal.embedder.EclipseBuildContext@373e4a53
+getSourceDirectory: /Users/mindashuang/git/wsilk-sample/src/main/java
+incremental is true
+incremental is true
+hasDelta is false
+Code generation is skipped in build because code was not modified.
+start
+Using build context: org.eclipse.m2e.core.internal.embedder.EclipseBuildContext@462b0e8b
+getSourceDirectory: /Users/mindashuang/git/wsilk-sample/src/main/java
+incremental is true
+incremental is true
+hasDelta is false
+Code generation is skipped in build because code was not modified.
+start
+Using build context: org.sonatype.plexus.build.incremental.DefaultBuildContext@6fd12c5
+getSourceDirectory: /Users/mindashuang/git/wsilk-sample/src/main/java
+incremental is true
+incremental is false
+hasDelta is true
+compiler source
+generatate over
+start
+Using build context: org.eclipse.m2e.core.internal.embedder.EclipseBuildContext@f47bf76
+getSourceDirectory: /Users/mindashuang/git/wsilk-sample/src/main/java
+incremental is true
+incremental is true
+hasDelta is false
+Code generation is skipped in build because code was not modified.
+start
+Using build context: org.sonatype.plexus.build.incremental.DefaultBuildContext@71652c98
+getSourceDirectory: /Users/mindashuang/git/wsilk-sample/src/main/java
+incremental is true
+incremental is false
+hasDelta is true
+compiler source
+generatate over
+start
+Using build context: org.eclipse.m2e.core.internal.embedder.EclipseBuildContext@30884750
+getSourceDirectory: /Users/mindashuang/git/wsilk-sample/src/main/java
+incremental is true
+incremental is true
+hasDelta is false
+Code generation is skipped in build because code was not modified.
+start
+Using build context: org.sonatype.plexus.build.incremental.DefaultBuildContext@71652c98
+getSourceDirectory: /Users/mindashuang/git/wsilk-sample/src/main/java
+incremental is true
+incremental is false
+hasDelta is true
+compiler source
+generatate over
+start
+Using build context: org.eclipse.m2e.core.internal.embedder.EclipseBuildContext@1a532ece
+getSourceDirectory: /Users/mindashuang/git/wsilk-sample/src/main/java
+incremental is true
+incremental is true
+hasDelta is false
+Code generation is skipped in build because code was not modified.
+start
+Using build context: org.sonatype.plexus.build.incremental.DefaultBuildContext@71652c98
+getSourceDirectory: /Users/mindashuang/git/wsilk-sample/src/main/java
+incremental is true
+incremental is false
+hasDelta is true
+compiler source
+generatate over
+start
+Using build context: org.eclipse.m2e.core.internal.embedder.EclipseBuildContext@a6e1e62
+getSourceDirectory: /Users/mindashuang/git/wsilk-sample/src/main/java
+incremental is true
+incremental is true
+hasDelta is false
+Code generation is skipped in build because code was not modified.
+start
+Using build context: org.sonatype.plexus.build.incremental.DefaultBuildContext@71652c98
+getSourceDirectory: /Users/mindashuang/git/wsilk-sample/src/main/java
+incremental is true
+incremental is false
+hasDelta is true
+compiler source
+generatate over
+start
+Using build context: org.eclipse.m2e.core.internal.embedder.EclipseBuildContext@5ef1133d
+getSourceDirectory: /Users/mindashuang/git/wsilk-sample/src/main/java
+incremental is true
+incremental is true
+hasDelta is false
+Code generation is skipped in build because code was not modified.
+start
+Using build context: org.sonatype.plexus.build.incremental.DefaultBuildContext@71652c98
+getSourceDirectory: /Users/mindashuang/git/wsilk-sample/src/main/java
+incremental is true
+incremental is false
+hasDelta is true
+compiler source
+generatate over
+start
+Using build context: org.eclipse.m2e.core.internal.embedder.EclipseBuildContext@35cc3cf4
+getSourceDirectory: /Users/mindashuang/git/wsilk-sample/src/main/java
+incremental is true
+incremental is true
+hasDelta is false
+Code generation is skipped in build because code was not modified.
+start
+Using build context: org.sonatype.plexus.build.incremental.DefaultBuildContext@71652c98
+getSourceDirectory: /Users/mindashuang/git/wsilk-sample/src/main/java
+incremental is true
+incremental is false
+hasDelta is true
+compiler source
+generatate over
+start
+Using build context: org.eclipse.m2e.core.internal.embedder.EclipseBuildContext@5419043e
+getSourceDirectory: /Users/mindashuang/git/wsilk-sample/src/main/java
+incremental is true
+incremental is true
+hasDelta is false
+Code generation is skipped in build because code was not modified.
+start
+Using build context: org.sonatype.plexus.build.incremental.DefaultBuildContext@6e5bfdfc
+getSourceDirectory: /Users/mindashuang/git/wsilk-sample/src/main/java
+incremental is true
+incremental is false
+hasDelta is true
+compiler source
+generatate over
+start
+Using build context: org.eclipse.m2e.core.internal.embedder.EclipseBuildContext@6bbeae01
+getSourceDirectory: /Users/mindashuang/git/wsilk-sample/src/main/java
+incremental is true
+incremental is true
+hasDelta is false
+Code generation is skipped in build because code was not modified.
+start
+Using build context: org.sonatype.plexus.build.incremental.DefaultBuildContext@1a1d3c1a
+getSourceDirectory: /Users/mindashuang/git/wsilk-sample/src/main/java
+incremental is true
+incremental is false
+hasDelta is true
+compiler source
+generatate over
+start
+Using build context: org.eclipse.m2e.core.internal.embedder.EclipseBuildContext@2eebe36c
+getSourceDirectory: /Users/mindashuang/git/wsilk-sample/src/main/java
+incremental is true
+incremental is true
+hasDelta is false
+Code generation is skipped in build because code was not modified.
+start
+Using build context: org.sonatype.plexus.build.incremental.DefaultBuildContext@1a1d3c1a
+getSourceDirectory: /Users/mindashuang/git/wsilk-sample/src/main/java
+incremental is true
+incremental is false
+hasDelta is true
+compiler source
+generatate over
+start
+Using build context: org.eclipse.m2e.core.internal.embedder.EclipseBuildContext@1a597f9a
+getSourceDirectory: /Users/mindashuang/git/wsilk-sample/src/main/java
+incremental is true
+incremental is true
+hasDelta is false
+Code generation is skipped in build because code was not modified.
+start
+Using build context: org.sonatype.plexus.build.incremental.DefaultBuildContext@1a1d3c1a
+getSourceDirectory: /Users/mindashuang/git/wsilk-sample/src/main/java
+incremental is true
+incremental is false
+hasDelta is true
+compiler source
+generatate over
+start
+Using build context: org.eclipse.m2e.core.internal.embedder.EclipseBuildContext@1e62acd3
+getSourceDirectory: /Users/mindashuang/git/wsilk-sample/src/main/java
+incremental is true
+incremental is true
+hasDelta is false
+Code generation is skipped in build because code was not modified.
+start
+Using build context: org.sonatype.plexus.build.incremental.DefaultBuildContext@1a1d3c1a
+getSourceDirectory: /Users/mindashuang/git/wsilk-sample/src/main/java
+incremental is true
+incremental is false
+hasDelta is true
+compiler source
+generatate over
+start
+Using build context: org.eclipse.m2e.core.internal.embedder.EclipseBuildContext@1ed5190f
+getSourceDirectory: /Users/mindashuang/git/wsilk-sample/src/main/java
+incremental is true
+incremental is true
+hasDelta is false
+Code generation is skipped in build because code was not modified.
+start
+Using build context: org.sonatype.plexus.build.incremental.DefaultBuildContext@25cd49a4
+getSourceDirectory: /Users/mindashuang/git/wsilk-sample/src/main/java
+incremental is true
+incremental is false
+hasDelta is true
+start
+Using build context: org.sonatype.plexus.build.incremental.DefaultBuildContext@1a1d3c1a
+getSourceDirectory: /Users/mindashuang/git/wsilk-sample/src/main/java
+incremental is true
+incremental is false
+hasDelta is true
+compiler source
+generatate over
+start
+Using build context: org.eclipse.m2e.core.internal.embedder.EclipseBuildContext@4895f4c7
+getSourceDirectory: /Users/mindashuang/git/wsilk-sample/src/main/java
+incremental is true
+incremental is true
+hasDelta is false
+Code generation is skipped in build because code was not modified.
+start
+Using build context: org.sonatype.plexus.build.incremental.DefaultBuildContext@159e366
+getSourceDirectory: /Users/mindashuang/git/wsilk-sample/src/main/java
+incremental is true
+incremental is false
+hasDelta is true
+compiler source
+generatate over
+start
+Using build context: org.eclipse.m2e.core.internal.embedder.EclipseBuildContext@ae91109
+getSourceDirectory: /Users/mindashuang/git/wsilk-sample/src/main/java
+incremental is true
+incremental is true
+hasDelta is false
+Code generation is skipped in build because code was not modified.
+start
+Using build context: org.sonatype.plexus.build.incremental.DefaultBuildContext@159e366
+getSourceDirectory: /Users/mindashuang/git/wsilk-sample/src/main/java
+incremental is true
+incremental is false
+hasDelta is true
+compiler source
+generatate over
+start
+Using build context: org.eclipse.m2e.core.internal.embedder.EclipseBuildContext@15a04bc3
+getSourceDirectory: /Users/mindashuang/git/wsilk-sample/src/main/java
+incremental is true
+incremental is true
+hasDelta is false
+Code generation is skipped in build because code was not modified.
