@@ -32,7 +32,7 @@ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
     </dependencyManagement>
     <dependencies>
         <dependency>
-            <groupId>com.wuba</groupId>
+            <groupId>io.github.wuba</groupId>
             <artifactId>wsilk-producer</artifactId>
             <version>1.0.0</version>
             <scope>provided</scope>
@@ -67,7 +67,7 @@ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
                 </configuration>
             </plugin>
             <plugin>
-                <groupId>com.wuba</groupId>
+                <groupId>io.github.wuba</groupId>
                 <artifactId>wsilk-maven-plugin</artifactId>
                 <version>1.0.0</version>
                 <executions>
@@ -79,12 +79,12 @@ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
                 </executions>
                 <dependencies>
                     <dependency>
-                        <groupId>com.wuba</groupId>
+                        <groupId>io.github.wuba</groupId>
                         <artifactId>wsilk-core</artifactId>
                         <version>1.0.0</version>
                     </dependency>
                     <dependency>
-                        <groupId>com.wuba</groupId>
+                        <groupId>io.github.wuba</groupId>
                         <artifactId>wsilk-producer</artifactId>
                         <version>1.0.0</version>
                     </dependency>
